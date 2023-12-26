@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="weight" minimum="300" maximum="900" default="300"/>
+  </axes>
+  <sources>
+    <source filename="Unageo-Light.ufo" name="master.Unageo.Black.0" familyname="Unageo" stylename="Light">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="weight" xvalue="300"/>
+      </location>
+    </source>
+    <source filename="Unageo-Black.ufo" familyname="Unageo" stylename="Black">
+      <location>
+        <dimension name="weight" xvalue="900"/>
+      </location>
+    </source>
+  </sources>
+</designspace>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus" format="2">
+  <advance width="589"/>
+  <unicode hex="002B"/>
+  <outline>
+    <contour>
+      <point x="340" y="523" type="line"/>
+      <point x="397" y="523" type="line"/>
+      <point x="370" y="329" type="line"/>
+      <point x="554" y="329" type="line"/>
+      <point x="546" y="269" type="line"/>
+      <point x="361" y="269" type="line"/>
+      <point x="334" y="73" type="line"/>
+      <point x="277" y="73" type="line"/>
+      <point x="304" y="269" type="line"/>
+      <point x="119" y="269" type="line"/>
+      <point x="127" y="329" type="line"/>
+      <point x="313" y="329" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>269</integer>
+            <key>width</key>
+            <integer>60</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>277</integer>
+            <key>width</key>
+            <integer>57</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>340</integer>
+            <key>width</key>
+            <integer>57</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

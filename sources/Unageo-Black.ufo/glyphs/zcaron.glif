@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zcaron" format="2">
+  <advance width="448"/>
+  <unicode hex="017E"/>
+  <outline>
+    <contour>
+      <point x="8.24609" y="700" type="line"/>
+      <point x="171.002" y="700" type="line"/>
+      <point x="220" y="643.99" type="line"/>
+      <point x="268.998" y="700" type="line"/>
+      <point x="431.754" y="700" type="line"/>
+      <point x="311.246" y="554" type="line"/>
+      <point x="128.754" y="554" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="20" y="170" type="line"/>
+      <point x="184.5" y="330" type="line"/>
+      <point x="20" y="330" type="line"/>
+      <point x="20" y="500" type="line"/>
+      <point x="428" y="500" type="line"/>
+      <point x="428" y="330" type="line"/>
+      <point x="263.5" y="170" type="line"/>
+      <point x="428" y="170" type="line"/>
+      <point x="428" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>170</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>330</integer>
+            <key>width</key>
+            <integer>170</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>554</integer>
+            <key>width</key>
+            <integer>146</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>20</integer>
+            <key>width</key>
+            <integer>408</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni049B" format="2">
+  <advance width="588"/>
+  <unicode hex="049B"/>
+  <outline>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="45" y="700" type="line"/>
+      <point x="215" y="700" type="line"/>
+      <point x="215" y="349.185" type="line"/>
+      <point x="350" y="500" type="line"/>
+      <point x="578" y="500" type="line"/>
+      <point x="376.105" y="274.938" type="line"/>
+      <point x="578" y="0" type="line"/>
+      <point x="367" y="0" type="line"/>
+      <point x="260.339" y="145.886" type="line"/>
+      <point x="215" y="95.3447" type="line"/>
+      <point x="215" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="416" y="-160" type="line"/>
+      <point x="416" y="180" type="line"/>
+      <point x="596" y="180" type="line"/>
+      <point x="596" y="-160" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>480</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>680</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>45</integer>
+            <key>width</key>
+            <integer>170</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>416</integer>
+            <key>width</key>
+            <integer>180</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

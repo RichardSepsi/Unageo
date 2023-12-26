@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gamma" format="2">
+  <advance width="456"/>
+  <unicode hex="03B3"/>
+  <outline>
+    <contour>
+      <point x="79" y="500" type="line"/>
+      <point x="141" y="500" type="line"/>
+      <point x="241" y="90" type="line"/>
+      <point x="455" y="500" type="line"/>
+      <point x="517" y="500" type="line"/>
+      <point x="257" y="4" type="line"/>
+      <point x="228" y="-200" type="line"/>
+      <point x="171" y="-200" type="line"/>
+      <point x="200" y="4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-200</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>480</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>79</integer>
+            <key>width</key>
+            <integer>62</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>171</integer>
+            <key>width</key>
+            <integer>57</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

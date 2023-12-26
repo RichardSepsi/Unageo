@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wacute" format="2">
+  <advance width="911"/>
+  <unicode hex="1E82"/>
+  <outline>
+    <contour>
+      <point x="467" y="724" type="line"/>
+      <point x="589" y="870" type="line"/>
+      <point x="775" y="870" type="line"/>
+      <point x="635" y="724" type="line"/>
+    </contour>
+    <contour>
+      <point x="833" y="700" type="line"/>
+      <point x="1004" y="700" type="line"/>
+      <point x="724" y="0" type="line"/>
+      <point x="554" y="0" type="line"/>
+      <point x="509" y="372" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="190" y="0" type="line"/>
+      <point x="105" y="700" type="line"/>
+      <point x="276" y="700" type="line"/>
+      <point x="321" y="328" type="line"/>
+      <point x="469" y="700" type="line"/>
+      <point x="640" y="700" type="line"/>
+      <point x="685" y="328" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>680</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>105</integer>
+            <key>width</key>
+            <integer>171</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

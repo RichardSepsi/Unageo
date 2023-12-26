@@ -1,0 +1,2 @@
+fontmake -m Unageo.designspace -o variable --production-names --output-path Unageo_VF.ttf --keep-overlaps
+fontmake -m Unageo-Italic.designspace -o variable --production-names --output-path Unageo-Italic_VF.ttf --keep-overlaps

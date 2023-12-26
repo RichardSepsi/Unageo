@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0137" format="2">
+  <advance width="588"/>
+  <unicode hex="0137"/>
+  <outline>
+    <contour>
+      <point x="176" y="-200" type="line"/>
+      <point x="216" y="-40" type="line"/>
+      <point x="384" y="-40" type="line"/>
+      <point x="306" y="-200" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="45" y="700" type="line"/>
+      <point x="215" y="700" type="line"/>
+      <point x="215" y="349.185" type="line"/>
+      <point x="350" y="500" type="line"/>
+      <point x="578" y="500" type="line"/>
+      <point x="376.105" y="274.938" type="line"/>
+      <point x="578" y="0" type="line"/>
+      <point x="367" y="0" type="line"/>
+      <point x="260.339" y="145.886" type="line"/>
+      <point x="215" y="95.3447" type="line"/>
+      <point x="215" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-200</integer>
+            <key>width</key>
+            <integer>160</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>480</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>680</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>45</integer>
+            <key>width</key>
+            <integer>170</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

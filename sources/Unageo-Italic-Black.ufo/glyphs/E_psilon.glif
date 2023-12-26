@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Epsilon" format="2">
+  <advance width="556"/>
+  <unicode hex="0395"/>
+  <outline>
+    <contour>
+      <point x="57" y="0" type="line"/>
+      <point x="155" y="700" type="line"/>
+      <point x="607" y="700" type="line"/>
+      <point x="583" y="530" type="line"/>
+      <point x="293" y="530" type="line"/>
+      <point x="280" y="435" type="line"/>
+      <point x="503" y="435" type="line"/>
+      <point x="479" y="266" type="line"/>
+      <point x="256" y="266" type="line"/>
+      <point x="242" y="170" type="line"/>
+      <point x="533" y="170" type="line"/>
+      <point x="509" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>170</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>266</integer>
+            <key>width</key>
+            <integer>169</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>530</integer>
+            <key>width</key>
+            <integer>170</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
