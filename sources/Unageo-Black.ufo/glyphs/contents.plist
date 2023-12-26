@@ -1258,5 +1258,7 @@
     <string>space.glif</string>
     <key>uni000D</key>
     <string>uni000D_.glif</string>
+    <key>uni00A0</key>
+    <string>uni00A_0.glif</string>
   </dict>
 </plist>

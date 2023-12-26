@@ -71,7 +71,7 @@
 	\oneeighth \threeeighths \fiveeighths \seveneighths \arrowleft \arrowup 
 	\arrowright \arrowdown \arrowboth \arrowupdn \uni2196 \uni2197 \uni2198 
 	\uni2199 \universal \existential \emptyset \minus \uni2215 \integral \notequal 
-	\lessequal \greaterequal \space \uni000D ];
+	\lessequal \greaterequal \space \uni000D \uni00A0 ];
 
 lookup kernHorizontalKerninginLatinlookup0 {
   lookupflag IgnoreMarks;
