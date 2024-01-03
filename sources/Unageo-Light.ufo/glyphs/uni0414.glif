@@ -8,8 +8,6 @@
       <point x="12" y="60" type="line"/>
       <point x="64" y="60" type="line"/>
       <point x="286" y="700" type="line"/>
-      <point x="286" y="700" type="line"/>
-      <point x="349" y="700" type="line"/>
       <point x="349" y="700" type="line"/>
       <point x="571" y="60" type="line"/>
       <point x="623" y="60" type="line"/>
@@ -41,7 +39,7 @@
             <key>position</key>
             <integer>608</integer>
             <key>width</key>
-            <integer>91</integer>
+            <integer>92</integer>
           </dict>
         </array>
         <key>vhints</key>

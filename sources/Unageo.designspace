@@ -1,22 +1,141 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="5.0">
   <axes>
-    <axis tag="wght" name="weight" minimum="300" maximum="900" default="300"/>
+    <axis tag="wght" name="weight" minimum="300" maximum="900" default="300">
+      <labels>
+        <label uservalue="300" name="Light" />
+        <label uservalue="400" name="Regular" />
+        <label uservalue="500" name="Medium" />
+        <label uservalue="600" name="Semibold" />
+        <label uservalue="700" name="Bold" />
+        <label uservalue="800" name="Extrabold" />
+        <label uservalue="900" name="Black" />
+      </labels>
+    </axis>
+    <axis tag="ital" name="italic" minimum="0" maximum="10" default="0">
+      <labels>
+        <label uservalue="0" name="regular" />
+        <label uservalue="10" name="italic" />
+      </labels>
+    </axis>
   </axes>
+
   <sources>
-    <source filename="Unageo-Light.ufo" name="master.Unageo.Black.0" familyname="Unageo" stylename="Light">
-      <lib copy="1"/>
-      <groups copy="1"/>
-      <features copy="1"/>
-      <info copy="1"/>
+    <source filename="Unageo-Light.ufo" familyname="Unageo">
       <location>
         <dimension name="weight" xvalue="300"/>
+        <dimension name="italic" xvalue="0"/>
       </location>
     </source>
-    <source filename="Unageo-Black.ufo" familyname="Unageo" stylename="Black">
+    <source filename="Unageo-Black.ufo">
       <location>
         <dimension name="weight" xvalue="900"/>
+        <dimension name="italic" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Unageo-Italic-Light.ufo">
+      <location>
+        <dimension name="weight" xvalue="300"/>
+        <dimension name="italic" xvalue="10"/>
+      </location>
+    </source>
+    <source filename="Unageo-Italic-Black.ufo">
+      <location>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="italic" xvalue="10"/>
       </location>
     </source>
   </sources>
+
+  
+
+  <instances>
+    <instance familyname="Unageo" postscriptfontname="UnageoLight" stylemapfamilyname="Unageo" stylemapstylename="Light" stylename="Light">
+      <location>
+          <dimension name="weight" xvalue="300" />
+          <dimension name="italic" xvalue="0"/>
+      </location>
+    </instance>
+    <instance familyname="Unageo" postscriptfontname="UnageoRegular" stylemapfamilyname="Unageo" stylemapstylename="Regular" stylename="Regular">
+      <location>
+          <dimension name="weight" xvalue="400" />
+          <dimension name="italic" xvalue="0"/>
+      </location>
+    </instance>
+    <instance familyname="Unageo" postscriptfontname="UnageoMedium" stylemapfamilyname="Unageo" stylemapstylename="Medium" stylename="Medium">
+      <location>
+          <dimension name="weight" xvalue="500" />
+          <dimension name="italic" xvalue="0"/>
+      </location>
+    </instance>
+    <instance familyname="Unageo" postscriptfontname="UnageoSemibold" stylemapfamilyname="Unageo" stylemapstylename="Semibold" stylename="Semibold">
+      <location>
+          <dimension name="weight" xvalue="600" />
+          <dimension name="italic" xvalue="0"/>
+      </location>
+    </instance>
+    <instance familyname="Unageo" postscriptfontname="UnageoBold" stylemapfamilyname="Unageo" stylemapstylename="Bold" stylename="Bold">
+      <location>
+          <dimension name="weight" xvalue="700" />
+          <dimension name="italic" xvalue="0"/>
+      </location>
+    </instance>
+    <instance familyname="Unageo" postscriptfontname="UnageoExtrabold" stylemapfamilyname="Unageo" stylemapstylename="Extrabold" stylename="Extrabold">
+      <location>
+          <dimension name="weight" xvalue="800" />
+          <dimension name="italic" xvalue="0"/>
+      </location>
+    </instance>
+    <instance familyname="Unageo" postscriptfontname="UnageoBlack" stylemapfamilyname="Unageo" stylemapstylename="Black" stylename="Black">
+      <location>
+          <dimension name="weight" xvalue="900" />
+          <dimension name="italic" xvalue="0"/>
+      </location>
+    </instance>
+
+
+
+    <instance familyname="Unageo-Italic" postscriptfontname="UnageoItalicLight" stylemapfamilyname="Unageo" stylemapstylename="Light" stylename="Light">
+      <location>
+          <dimension name="weight" xvalue="300" />
+          <dimension name="italic" xvalue="10"/>
+      </location>
+    </instance>
+    <instance familyname="Unageo-Italic" postscriptfontname="UnageoItalicRegular" stylemapfamilyname="Unageo" stylemapstylename="Regular" stylename="Regular">
+      <location>
+          <dimension name="weight" xvalue="400" />
+          <dimension name="italic" xvalue="10"/>
+      </location>
+    </instance>
+    <instance familyname="Unageo-Italic" postscriptfontname="UnageoItalicMedium" stylemapfamilyname="Unageo" stylemapstylename="Medium" stylename="Medium">
+      <location>
+          <dimension name="weight" xvalue="500" />
+          <dimension name="italic" xvalue="10"/>
+      </location>
+    </instance>
+    <instance familyname="Unageo-Italic" postscriptfontname="UnageoItalicSemibold" stylemapfamilyname="Unageo" stylemapstylename="Semibold" stylename="Semibold">
+      <location>
+          <dimension name="weight" xvalue="600" />
+          <dimension name="italic" xvalue="10"/>
+      </location>
+    </instance>
+    <instance familyname="Unageo-Italic" postscriptfontname="UnageoItalicBold" stylemapfamilyname="Unageo" stylemapstylename="Bold" stylename="Bold">
+      <location>
+          <dimension name="weight" xvalue="700" />
+          <dimension name="italic" xvalue="10"/>
+      </location>
+    </instance>
+    <instance familyname="Unageo-Italic" postscriptfontname="UnageoItalicExtrabold" stylemapfamilyname="Unageo" stylemapstylename="Extrabold" stylename="Extrabold">
+      <location>
+          <dimension name="weight" xvalue="800" />
+          <dimension name="italic" xvalue="10"/>
+      </location>
+    </instance>
+    <instance familyname="Unageo-Italic" postscriptfontname="UnageoItalicBlack" stylemapfamilyname="Unageo" stylemapstylename="Black" stylename="Black">
+      <location>
+          <dimension name="weight" xvalue="900" />
+          <dimension name="italic" xvalue="10"/>
+      </location>
+    </instance>
+  </instances>
 </designspace>

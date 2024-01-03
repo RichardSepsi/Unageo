@@ -50,6 +50,12 @@
         <array>
           <dict>
             <key>position</key>
+            <integer>-200</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
             <integer>-11</integer>
             <key>width</key>
             <integer>61</integer>

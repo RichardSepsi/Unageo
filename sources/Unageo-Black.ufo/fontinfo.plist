@@ -5,15 +5,15 @@
     <key>familyName</key>
     <string>Unageo</string>
     <key>styleName</key>
-    <string>Black</string>
+    <string>Variable</string>
     <key>styleMapFamilyName</key>
-    <string>Unageo Black</string>
+    <string>Unageo Variable</string>
     <key>versionMajor</key>
-    <integer>1</integer>
+    <integer>2</integer>
     <key>versionMinor</key>
-    <integer>6</integer>
+    <integer>0</integer>
     <key>copyright</key>
-    <string></string>
+    <string>Copyright 2023 The Unageo Project Authors (https://github.com/RichardSepsi/Unageo)</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>capHeight</key>
@@ -135,7 +135,11 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameVersion</key>
-    <string>Version 1.006</string>
+    <string>Version 2.000</string>
+    <key>openTypeNamePreferredFamilyName</key>
+    <string>Unageo</string>
+    <key>openTypeNamePreferredSubfamilyName</key>
+    <string>Variable</string>
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>openTypeOS2WeightClass</key>
@@ -160,11 +164,11 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeOS2WinDescent</key>
     <integer>220</integer>
     <key>postscriptFontName</key>
-    <string>Unageo-Black</string>
+    <string>Unageo-Variable</string>
     <key>postscriptFullName</key>
-    <string>Unageo Black</string>
+    <string>Unageo Variable</string>
     <key>postscriptWeightName</key>
-    <string>Black</string>
+    <string>Variable</string>
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
     <key>postscriptUnderlinePosition</key>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ygrave" format="2">
-  <advance width="499"/>
+  <advance width="525"/>
   <unicode hex="1EF2"/>
   <outline>
     <contour>
-      <point x="322" y="744" type="line"/>
-      <point x="222" y="871" type="line"/>
-      <point x="306" y="871" type="line"/>
-      <point x="394" y="744" type="line"/>
+      <point x="347" y="744" type="line"/>
+      <point x="242" y="871" type="line"/>
+      <point x="331" y="871" type="line"/>
+      <point x="423" y="744" type="line"/>
     </contour>
     <contour>
-      <point x="108" y="700" type="line"/>
-      <point x="175" y="700" type="line"/>
-      <point x="305" y="390" type="line"/>
-      <point x="521" y="700" type="line"/>
-      <point x="589" y="700" type="line"/>
-      <point x="323" y="321" type="line"/>
-      <point x="278" y="0" type="line"/>
-      <point x="221" y="0" type="line"/>
-      <point x="266" y="321" type="line"/>
+      <point x="121" y="700" type="line"/>
+      <point x="192" y="700" type="line"/>
+      <point x="325" y="390" type="line"/>
+      <point x="556" y="700" type="line"/>
+      <point x="627" y="700" type="line"/>
+      <point x="344" y="321" type="line"/>
+      <point x="293" y="0" type="line"/>
+      <point x="233" y="0" type="line"/>
+      <point x="284" y="321" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -44,9 +44,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>221</integer>
+            <integer>233</integer>
             <key>width</key>
-            <integer>57</integer>
+            <integer>60</integer>
           </dict>
         </array>
       </dict>

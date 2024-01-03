@@ -4,13 +4,13 @@
   <unicode hex="01CE"/>
   <outline>
     <contour>
-      <point x="171" y="700" type="line"/>
-      <point x="252" y="700" type="line"/>
-      <point x="332" y="622" type="line"/>
-      <point x="412" y="700" type="line"/>
-      <point x="493" y="700" type="line"/>
-      <point x="375" y="574" type="line"/>
-      <point x="289" y="574" type="line"/>
+      <point x="141" y="700" type="line"/>
+      <point x="222" y="700" type="line"/>
+      <point x="302" y="622" type="line"/>
+      <point x="382" y="700" type="line"/>
+      <point x="463" y="700" type="line"/>
+      <point x="345" y="574" type="line"/>
+      <point x="259" y="574" type="line"/>
     </contour>
     <contour>
       <point x="468" y="500" type="line"/>
@@ -80,7 +80,7 @@
             <key>position</key>
             <integer>-12</integer>
             <key>width</key>
-            <integer>61</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -92,7 +92,7 @@
             <key>position</key>
             <integer>452</integer>
             <key>width</key>
-            <integer>61</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
