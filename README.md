@@ -1,6 +1,6 @@
 ## Unageo typeface
 
-Unageo is a simple, geometric typeface with variable weight support, that was made with digital use in mind, however it works in print just as well .
+Unageo is a simple, geometric typeface with variable weight and italic angle support, that was made with digital use in mind, however it works in print just as well .
 
 It's designed to use perfect geometric shapes where possible while still maintaining great readability and it uses almost uniform stroke width all across each glyph on all weights.
 
