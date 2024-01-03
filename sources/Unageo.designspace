@@ -95,43 +95,43 @@
 
 
 
-    <instance familyname="Unageo-Italic" postscriptfontname="UnageoItalicLight" stylemapfamilyname="Unageo" stylemapstylename="Light" stylename="Light">
+    <instance familyname="Unageo" postscriptfontname="UnageoLightItalic" stylemapfamilyname="Unageo" stylemapstylename="Light-Italic" stylename="Light-Italic">
       <location>
           <dimension name="weight" xvalue="300" />
           <dimension name="italic" xvalue="10"/>
       </location>
     </instance>
-    <instance familyname="Unageo-Italic" postscriptfontname="UnageoItalicRegular" stylemapfamilyname="Unageo" stylemapstylename="Regular" stylename="Regular">
+    <instance familyname="Unageo" postscriptfontname="UnageoRegularItalic" stylemapfamilyname="Unageo" stylemapstylename="Regular-Italic" stylename="Regular-Italic">
       <location>
           <dimension name="weight" xvalue="400" />
           <dimension name="italic" xvalue="10"/>
       </location>
     </instance>
-    <instance familyname="Unageo-Italic" postscriptfontname="UnageoItalicMedium" stylemapfamilyname="Unageo" stylemapstylename="Medium" stylename="Medium">
+    <instance familyname="Unageo" postscriptfontname="UnageoMediumItalic" stylemapfamilyname="Unageo" stylemapstylename="Medium-Italic" stylename="Medium-Italic">
       <location>
           <dimension name="weight" xvalue="500" />
           <dimension name="italic" xvalue="10"/>
       </location>
     </instance>
-    <instance familyname="Unageo-Italic" postscriptfontname="UnageoItalicSemibold" stylemapfamilyname="Unageo" stylemapstylename="Semibold" stylename="Semibold">
+    <instance familyname="Unageo" postscriptfontname="UnageoSemiboldItalic" stylemapfamilyname="Unageo" stylemapstylename="Semibold-Italic" stylename="Semibold-Italic">
       <location>
           <dimension name="weight" xvalue="600" />
           <dimension name="italic" xvalue="10"/>
       </location>
     </instance>
-    <instance familyname="Unageo-Italic" postscriptfontname="UnageoItalicBold" stylemapfamilyname="Unageo" stylemapstylename="Bold" stylename="Bold">
+    <instance familyname="Unageo" postscriptfontname="UnageoBoldItalic" stylemapfamilyname="Unageo" stylemapstylename="Bold-Italic" stylename="Bold-Italic">
       <location>
           <dimension name="weight" xvalue="700" />
           <dimension name="italic" xvalue="10"/>
       </location>
     </instance>
-    <instance familyname="Unageo-Italic" postscriptfontname="UnageoItalicExtrabold" stylemapfamilyname="Unageo" stylemapstylename="Extrabold" stylename="Extrabold">
+    <instance familyname="Unageo" postscriptfontname="UnageoExtraboldItalic" stylemapfamilyname="Unageo" stylemapstylename="Extrabold-Italic" stylename="Extrabold-Italic">
       <location>
           <dimension name="weight" xvalue="800" />
           <dimension name="italic" xvalue="10"/>
       </location>
     </instance>
-    <instance familyname="Unageo-Italic" postscriptfontname="UnageoItalicBlack" stylemapfamilyname="Unageo" stylemapstylename="Black" stylename="Black">
+    <instance familyname="Unageo" postscriptfontname="UnageoBlackItalic" stylemapfamilyname="Unageo" stylemapstylename="Black-Italic" stylename="Black-Italic">
       <location>
           <dimension name="weight" xvalue="900" />
           <dimension name="italic" xvalue="10"/>
