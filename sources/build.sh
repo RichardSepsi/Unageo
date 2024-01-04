@@ -1,1 +1,2 @@
-fontmake -m Unageo.designspace -o variable --production-names --output-path Unageo_VF.ttf --keep-overlaps
+fontmake -m Unageo.designspace -o variable --output-path Unageo[wght,ital].ttf --keep-overlaps
+gftools fix-nonhinting Unageo[wght,ital].ttf Unageo[wght,ital].ttf

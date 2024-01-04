@@ -6,16 +6,16 @@
         <label uservalue="300" name="Light" />
         <label uservalue="400" name="Regular" />
         <label uservalue="500" name="Medium" />
-        <label uservalue="600" name="Semibold" />
+        <label uservalue="600" name="SemiBold" />
         <label uservalue="700" name="Bold" />
-        <label uservalue="800" name="Extrabold" />
+        <label uservalue="800" name="ExtraBold" />
         <label uservalue="900" name="Black" />
       </labels>
     </axis>
-    <axis tag="ital" name="italic" minimum="0" maximum="10" default="0">
+    <axis tag="ital" name="italic" minimum="0" maximum="1" default="0">
       <labels>
-        <label uservalue="0" name="regular" />
-        <label uservalue="10" name="italic" />
+        
+        <label uservalue="1" name="italic" />
       </labels>
     </axis>
   </axes>
@@ -36,13 +36,13 @@
     <source filename="Unageo-Italic-Light.ufo">
       <location>
         <dimension name="weight" xvalue="300"/>
-        <dimension name="italic" xvalue="10"/>
+        <dimension name="italic" xvalue="1"/>
       </location>
     </source>
     <source filename="Unageo-Italic-Black.ufo">
       <location>
         <dimension name="weight" xvalue="900"/>
-        <dimension name="italic" xvalue="10"/>
+        <dimension name="italic" xvalue="1"/>
       </location>
     </source>
   </sources>
@@ -68,7 +68,7 @@
           <dimension name="italic" xvalue="0"/>
       </location>
     </instance>
-    <instance familyname="Unageo" postscriptfontname="UnageoSemibold" stylemapfamilyname="Unageo" stylemapstylename="Semibold" stylename="Semibold">
+    <instance familyname="Unageo" postscriptfontname="UnageoSemiBold" stylemapfamilyname="Unageo" stylemapstylename="SemiBold" stylename="SemiBold">
       <location>
           <dimension name="weight" xvalue="600" />
           <dimension name="italic" xvalue="0"/>
@@ -80,7 +80,7 @@
           <dimension name="italic" xvalue="0"/>
       </location>
     </instance>
-    <instance familyname="Unageo" postscriptfontname="UnageoExtrabold" stylemapfamilyname="Unageo" stylemapstylename="Extrabold" stylename="Extrabold">
+    <instance familyname="Unageo" postscriptfontname="UnageoExtraBold" stylemapfamilyname="Unageo" stylemapstylename="ExtraBold" stylename="ExtraBold">
       <location>
           <dimension name="weight" xvalue="800" />
           <dimension name="italic" xvalue="0"/>
@@ -98,43 +98,43 @@
     <instance familyname="Unageo" postscriptfontname="UnageoLightItalic" stylemapfamilyname="Unageo" stylemapstylename="Light-Italic" stylename="Light-Italic">
       <location>
           <dimension name="weight" xvalue="300" />
-          <dimension name="italic" xvalue="10"/>
+          <dimension name="italic" xvalue="1"/>
       </location>
     </instance>
     <instance familyname="Unageo" postscriptfontname="UnageoRegularItalic" stylemapfamilyname="Unageo" stylemapstylename="Regular-Italic" stylename="Regular-Italic">
       <location>
           <dimension name="weight" xvalue="400" />
-          <dimension name="italic" xvalue="10"/>
+          <dimension name="italic" xvalue="1"/>
       </location>
     </instance>
     <instance familyname="Unageo" postscriptfontname="UnageoMediumItalic" stylemapfamilyname="Unageo" stylemapstylename="Medium-Italic" stylename="Medium-Italic">
       <location>
           <dimension name="weight" xvalue="500" />
-          <dimension name="italic" xvalue="10"/>
+          <dimension name="italic" xvalue="1"/>
       </location>
     </instance>
-    <instance familyname="Unageo" postscriptfontname="UnageoSemiboldItalic" stylemapfamilyname="Unageo" stylemapstylename="Semibold-Italic" stylename="Semibold-Italic">
+    <instance familyname="Unageo" postscriptfontname="UnageoSemiBoldItalic" stylemapfamilyname="Unageo" stylemapstylename="SemiBold-Italic" stylename="SemiBold-Italic">
       <location>
           <dimension name="weight" xvalue="600" />
-          <dimension name="italic" xvalue="10"/>
+          <dimension name="italic" xvalue="1"/>
       </location>
     </instance>
     <instance familyname="Unageo" postscriptfontname="UnageoBoldItalic" stylemapfamilyname="Unageo" stylemapstylename="Bold-Italic" stylename="Bold-Italic">
       <location>
           <dimension name="weight" xvalue="700" />
-          <dimension name="italic" xvalue="10"/>
+          <dimension name="italic" xvalue="1"/>
       </location>
     </instance>
-    <instance familyname="Unageo" postscriptfontname="UnageoExtraboldItalic" stylemapfamilyname="Unageo" stylemapstylename="Extrabold-Italic" stylename="Extrabold-Italic">
+    <instance familyname="Unageo" postscriptfontname="UnageoExtraBoldItalic" stylemapfamilyname="Unageo" stylemapstylename="ExtraBold-Italic" stylename="ExtraBold-Italic">
       <location>
           <dimension name="weight" xvalue="800" />
-          <dimension name="italic" xvalue="10"/>
+          <dimension name="italic" xvalue="1"/>
       </location>
     </instance>
     <instance familyname="Unageo" postscriptfontname="UnageoBlackItalic" stylemapfamilyname="Unageo" stylemapstylename="Black-Italic" stylename="Black-Italic">
       <location>
           <dimension name="weight" xvalue="900" />
-          <dimension name="italic" xvalue="10"/>
+          <dimension name="italic" xvalue="1"/>
       </location>
     </instance>
   </instances>

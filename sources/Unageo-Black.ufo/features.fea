@@ -387,7 +387,7 @@ lookup kernHorizontalKerninginLatinlookup0 {
     pos @kc39_first_11 @kc39_second_9 -30;
     pos @kc39_first_11 @kc39_second_2 -40;
     pos @kc39_first_11 @kc39_second_8 -30;
-    pos @kc39_first_11 @kc39_second_3 -40;
+    pos @kc39_first_11 @kc39_second_3 -60;
     pos @kc39_first_11 @kc39_second_6 -30;
     pos @kc39_first_11 @kc39_second_4 -40;
     pos @kc39_first_11 \eth -40;

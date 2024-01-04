@@ -1,1 +1,2 @@
 fontmake>=3.7.1
+gftools>=0.9.41
