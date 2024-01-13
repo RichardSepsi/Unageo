@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Alphatonos" format="2">
-  <advance width="654"/>
+  <advance width="695"/>
   <unicode hex="0386"/>
   <outline>
     <contour>
-      <point x="64" y="554" type="line"/>
-      <point x="137" y="700" type="line"/>
-      <point x="314" y="700" type="line"/>
-      <point x="221" y="554" type="line"/>
+      <point x="76" y="554" type="line"/>
+      <point x="155" y="700" type="line"/>
+      <point x="341" y="700" type="line"/>
+      <point x="242" y="554" type="line"/>
     </contour>
     <contour>
-      <point x="477" y="0" type="line"/>
-      <point x="333" y="700" type="line"/>
-      <point x="503" y="700" type="line"/>
-      <point x="648" y="0" type="line"/>
+      <point x="505" y="0" type="line"/>
+      <point x="361" y="700" type="line"/>
+      <point x="540" y="700" type="line"/>
+      <point x="685" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="7" y="0" type="line"/>
-      <point x="333" y="700" type="line"/>
-      <point x="503" y="700" type="line"/>
-      <point x="178" y="0" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="361" y="700" type="line"/>
+      <point x="540" y="700" type="line"/>
+      <point x="190" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="107" y="93" type="line"/>
-      <point x="131" y="263" type="line"/>
-      <point x="591" y="263" type="line"/>
-      <point x="567" y="93" type="line"/>
+      <point x="117" y="93" type="line"/>
+      <point x="144" y="263" type="line"/>
+      <point x="628" y="263" type="line"/>
+      <point x="601" y="93" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -57,9 +57,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>477</integer>
+            <integer>505</integer>
             <key>width</key>
-            <integer>171</integer>
+            <integer>180</integer>
           </dict>
         </array>
       </dict>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="imacron" format="2">
-  <advance width="219"/>
+  <advance width="225"/>
   <unicode hex="012B"/>
   <outline>
     <contour>
-      <point x="-15" y="580" type="line"/>
-      <point x="-15" y="637" type="line"/>
-      <point x="235" y="637" type="line"/>
-      <point x="235" y="580" type="line"/>
+      <point x="-12" y="580" type="line"/>
+      <point x="-12" y="637" type="line"/>
+      <point x="238" y="637" type="line"/>
+      <point x="238" y="580" type="line"/>
     </contour>
     <contour>
-      <point x="79" y="0" type="line"/>
-      <point x="79" y="500" type="line"/>
-      <point x="139" y="500" type="line"/>
-      <point x="139" y="0" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="82" y="500" type="line"/>
+      <point x="142" y="500" type="line"/>
+      <point x="142" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -45,7 +45,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>79</integer>
+            <integer>82</integer>
             <key>width</key>
             <integer>60</integer>
           </dict>

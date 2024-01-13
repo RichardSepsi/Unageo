@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ecaron" format="2">
-  <advance width="586"/>
+  <advance width="592"/>
   <unicode hex="011A"/>
   <outline>
     <contour>
-      <point x="70.2461" y="900" type="line"/>
-      <point x="233.002" y="900" type="line"/>
-      <point x="282" y="843.99" type="line"/>
-      <point x="330.998" y="900" type="line"/>
-      <point x="493.754" y="900" type="line"/>
-      <point x="373.246" y="754" type="line"/>
-      <point x="190.754" y="754" type="line"/>
+      <point x="73.2461" y="900" type="line"/>
+      <point x="236.002" y="900" type="line"/>
+      <point x="285" y="843.99" type="line"/>
+      <point x="333.998" y="900" type="line"/>
+      <point x="496.754" y="900" type="line"/>
+      <point x="376.246" y="754" type="line"/>
+      <point x="193.754" y="754" type="line"/>
     </contour>
     <contour>
-      <point x="60" y="0" type="line"/>
-      <point x="60" y="700" type="line"/>
-      <point x="535" y="700" type="line"/>
-      <point x="535" y="530" type="line"/>
-      <point x="230" y="530" type="line"/>
-      <point x="230" y="435" type="line"/>
-      <point x="465" y="435" type="line"/>
-      <point x="465" y="266" type="line"/>
-      <point x="230" y="266" type="line"/>
-      <point x="230" y="170" type="line"/>
-      <point x="536" y="170" type="line"/>
-      <point x="536" y="0" type="line"/>
+      <point x="63" y="0" type="line"/>
+      <point x="63" y="700" type="line"/>
+      <point x="538" y="700" type="line"/>
+      <point x="538" y="530" type="line"/>
+      <point x="233" y="530" type="line"/>
+      <point x="233" y="435" type="line"/>
+      <point x="468" y="435" type="line"/>
+      <point x="468" y="266" type="line"/>
+      <point x="233" y="266" type="line"/>
+      <point x="233" y="170" type="line"/>
+      <point x="539" y="170" type="line"/>
+      <point x="539" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -62,7 +62,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>60</integer>
+            <integer>63</integer>
             <key>width</key>
             <integer>170</integer>
           </dict>

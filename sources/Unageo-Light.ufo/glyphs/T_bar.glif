@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tbar" format="2">
-  <advance width="539"/>
+  <advance width="545"/>
   <unicode hex="0166"/>
   <outline>
     <contour>
-      <point x="10" y="700" type="line"/>
-      <point x="530" y="700" type="line"/>
-      <point x="530" y="640" type="line"/>
-      <point x="300" y="640" type="line"/>
-      <point x="300" y="0" type="line"/>
-      <point x="240" y="0" type="line"/>
-      <point x="240" y="640" type="line"/>
-      <point x="10" y="640" type="line"/>
+      <point x="13" y="700" type="line"/>
+      <point x="533" y="700" type="line"/>
+      <point x="533" y="640" type="line"/>
+      <point x="303" y="640" type="line"/>
+      <point x="303" y="0" type="line"/>
+      <point x="243" y="0" type="line"/>
+      <point x="243" y="640" type="line"/>
+      <point x="13" y="640" type="line"/>
     </contour>
     <contour>
-      <point x="118" y="309" type="line"/>
-      <point x="118" y="369" type="line"/>
-      <point x="426" y="369" type="line"/>
-      <point x="426" y="309" type="line"/>
+      <point x="121" y="309" type="line"/>
+      <point x="121" y="369" type="line"/>
+      <point x="429" y="369" type="line"/>
+      <point x="429" y="309" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -49,7 +49,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>240</integer>
+            <integer>243</integer>
             <key>width</key>
             <integer>60</integer>
           </dict>

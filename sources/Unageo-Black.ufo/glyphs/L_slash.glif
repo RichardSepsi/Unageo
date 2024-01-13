@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lslash" format="2">
-  <advance width="553"/>
+  <advance width="559"/>
   <unicode hex="0141"/>
   <outline>
     <contour>
-      <point x="60" y="0" type="line"/>
-      <point x="60" y="700" type="line"/>
-      <point x="230" y="700" type="line"/>
-      <point x="230" y="170" type="line"/>
-      <point x="533" y="170" type="line"/>
-      <point x="533" y="0" type="line"/>
+      <point x="63" y="0" type="line"/>
+      <point x="63" y="700" type="line"/>
+      <point x="233" y="700" type="line"/>
+      <point x="233" y="170" type="line"/>
+      <point x="536" y="170" type="line"/>
+      <point x="536" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="0" y="211.6" type="line"/>
-      <point x="0" y="405" type="line"/>
-      <point x="334" y="586" type="line"/>
-      <point x="334" y="392.6" type="line"/>
+      <point x="3" y="211.6" type="line"/>
+      <point x="3" y="405" type="line"/>
+      <point x="337" y="586" type="line"/>
+      <point x="337" y="392.6" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>60</integer>
+            <integer>63</integer>
             <key>width</key>
             <integer>170</integer>
           </dict>

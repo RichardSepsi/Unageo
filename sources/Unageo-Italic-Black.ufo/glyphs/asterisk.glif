@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asterisk" format="2">
-  <advance width="483"/>
+  <advance width="515"/>
   <unicode hex="002A"/>
   <outline>
     <contour>
-      <point x="108" y="498" type="line"/>
-      <point x="181" y="660" type="line"/>
-      <point x="351" y="599" type="line"/>
-      <point x="278" y="437" type="line"/>
+      <point x="122" y="498" type="line"/>
+      <point x="200" y="660" type="line"/>
+      <point x="379" y="599" type="line"/>
+      <point x="300" y="437" type="line"/>
     </contour>
     <contour>
-      <point x="240" y="308" type="line"/>
-      <point x="123" y="408" type="line"/>
-      <point x="256" y="568" type="line"/>
-      <point x="373" y="468" type="line"/>
+      <point x="259" y="308" type="line"/>
+      <point x="137" y="408" type="line"/>
+      <point x="279" y="568" type="line"/>
+      <point x="400" y="468" type="line"/>
     </contour>
     <contour>
-      <point x="475" y="408" type="line"/>
-      <point x="330" y="308" type="line"/>
-      <point x="242" y="468" type="line"/>
-      <point x="387" y="568" type="line"/>
+      <point x="507" y="408" type="line"/>
+      <point x="354" y="308" type="line"/>
+      <point x="263" y="468" type="line"/>
+      <point x="416" y="568" type="line"/>
     </contour>
     <contour>
-      <point x="488" y="660" type="line"/>
-      <point x="516" y="498" type="line"/>
-      <point x="328" y="437" type="line"/>
-      <point x="301" y="599" type="line"/>
+      <point x="524" y="660" type="line"/>
+      <point x="551" y="498" type="line"/>
+      <point x="353" y="437" type="line"/>
+      <point x="326" y="599" type="line"/>
     </contour>
     <contour>
-      <point x="262" y="716" type="line"/>
-      <point x="423" y="716" type="line"/>
-      <point x="395" y="518" type="line"/>
-      <point x="234" y="518" type="line"/>
+      <point x="286" y="716" type="line"/>
+      <point x="456" y="716" type="line"/>
+      <point x="424" y="518" type="line"/>
+      <point x="254" y="518" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -42,9 +42,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>262</integer>
+            <integer>286</integer>
             <key>width</key>
-            <integer>161</integer>
+            <integer>170</integer>
           </dict>
         </array>
       </dict>

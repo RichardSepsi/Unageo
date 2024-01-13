@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave" format="2">
-  <advance width="204"/>
+  <advance width="210"/>
   <unicode hex="0060"/>
   <outline>
     <contour>
-      <point x="130" y="574" type="line"/>
-      <point x="6" y="701" type="line"/>
-      <point x="95" y="701" type="line"/>
-      <point x="206" y="574" type="line"/>
+      <point x="133" y="574" type="line"/>
+      <point x="9" y="701" type="line"/>
+      <point x="98" y="701" type="line"/>
+      <point x="209" y="574" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +27,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>6</integer>
+            <integer>9</integer>
             <key>width</key>
             <integer>200</integer>
           </dict>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0490" format="2">
-  <advance width="524"/>
+  <advance width="558"/>
   <unicode hex="0490"/>
   <outline>
     <contour>
-      <point x="57" y="0" type="line"/>
-      <point x="155" y="700" type="line"/>
-      <point x="607" y="700" type="line"/>
-      <point x="583" y="530" type="line"/>
-      <point x="293" y="530" type="line"/>
-      <point x="218" y="0" type="line"/>
+      <point x="63" y="0" type="line"/>
+      <point x="174" y="700" type="line"/>
+      <point x="649" y="700" type="line"/>
+      <point x="622" y="530" type="line"/>
+      <point x="317" y="530" type="line"/>
+      <point x="233" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="454" y="830" type="line"/>
-      <point x="625" y="830" type="line"/>
-      <point x="602" y="667" type="line"/>
-      <point x="431" y="667" type="line"/>
+      <point x="489" y="830" type="line"/>
+      <point x="669" y="830" type="line"/>
+      <point x="644" y="667" type="line"/>
+      <point x="464" y="667" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -40,16 +40,16 @@
             <key>position</key>
             <integer>667</integer>
             <key>width</key>
-            <integer>33</integer>
+            <integer>163</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>57</integer>
+            <integer>63</integer>
             <key>width</key>
-            <integer>161</integer>
+            <integer>170</integer>
           </dict>
         </array>
       </dict>

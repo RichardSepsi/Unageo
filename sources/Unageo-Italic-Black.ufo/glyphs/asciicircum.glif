@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asciicircum" format="2">
-  <advance width="580"/>
+  <advance width="617"/>
   <unicode hex="005E"/>
   <outline>
     <contour>
-      <point x="389" y="373" type="line"/>
-      <point x="305" y="700" type="line"/>
-      <point x="478" y="700" type="line"/>
-      <point x="566" y="373" type="line"/>
+      <point x="416" y="373" type="line"/>
+      <point x="331" y="700" type="line"/>
+      <point x="514" y="700" type="line"/>
+      <point x="603" y="373" type="line"/>
     </contour>
     <contour>
-      <point x="119" y="373" type="line"/>
-      <point x="305" y="700" type="line"/>
-      <point x="477" y="700" type="line"/>
-      <point x="297" y="373" type="line"/>
+      <point x="132" y="373" type="line"/>
+      <point x="331" y="700" type="line"/>
+      <point x="513" y="700" type="line"/>
+      <point x="319" y="373" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,9 +33,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>389</integer>
+            <integer>416</integer>
             <key>width</key>
-            <integer>177</integer>
+            <integer>187</integer>
           </dict>
         </array>
       </dict>

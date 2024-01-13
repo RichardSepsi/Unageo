@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AE" format="2">
-  <advance width="994"/>
+  <advance width="1000"/>
   <unicode hex="00C6"/>
   <outline>
     <contour>
-      <point x="500" y="700" type="line"/>
-      <point x="903" y="700" type="line"/>
-      <point x="903" y="640" type="line"/>
-      <point x="560" y="640" type="line"/>
-      <point x="560" y="391" type="line"/>
-      <point x="839" y="391" type="line"/>
-      <point x="839" y="331" type="line"/>
-      <point x="560" y="331" type="line"/>
-      <point x="560" y="60" type="line"/>
-      <point x="903" y="60" type="line"/>
-      <point x="903" y="0" type="line"/>
-      <point x="500" y="0" type="line"/>
-      <point x="500" y="205" type="line"/>
-      <point x="226" y="205" type="line"/>
-      <point x="82" y="0" type="line"/>
-      <point x="8" y="0" type="line"/>
+      <point x="503" y="700" type="line"/>
+      <point x="906" y="700" type="line"/>
+      <point x="906" y="640" type="line"/>
+      <point x="563" y="640" type="line"/>
+      <point x="563" y="391" type="line"/>
+      <point x="842" y="391" type="line"/>
+      <point x="842" y="331" type="line"/>
+      <point x="563" y="331" type="line"/>
+      <point x="563" y="60" type="line"/>
+      <point x="906" y="60" type="line"/>
+      <point x="906" y="0" type="line"/>
+      <point x="503" y="0" type="line"/>
+      <point x="503" y="205" type="line"/>
+      <point x="229" y="205" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="11" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="500" y="596" type="line"/>
-      <point x="268" y="265" type="line"/>
-      <point x="500" y="265" type="line"/>
+      <point x="503" y="596" type="line"/>
+      <point x="271" y="265" type="line"/>
+      <point x="503" y="265" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -62,7 +62,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>500</integer>
+            <integer>503</integer>
             <key>width</key>
             <integer>60</integer>
           </dict>

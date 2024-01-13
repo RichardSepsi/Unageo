@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutecomb" format="2">
-  <advance width="0"/>
+  <advance width="6"/>
   <unicode hex="0301"/>
   <outline>
     <contour>
-      <point x="245" y="553.5" type="line"/>
-      <point x="351" y="700.5" type="line"/>
-      <point x="547" y="700.5" type="line"/>
-      <point x="421" y="553.5" type="line"/>
+      <point x="248" y="553.5" type="line"/>
+      <point x="354" y="700.5" type="line"/>
+      <point x="550" y="700.5" type="line"/>
+      <point x="424" y="553.5" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +27,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>245</integer>
+            <integer>248</integer>
             <key>width</key>
             <integer>302</integer>
           </dict>

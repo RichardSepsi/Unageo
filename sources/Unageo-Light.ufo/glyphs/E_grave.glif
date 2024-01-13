@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Egrave" format="2">
-  <advance width="592"/>
+  <advance width="598"/>
   <unicode hex="00C8"/>
   <outline>
     <contour>
-      <point x="272" y="744" type="line"/>
-      <point x="148" y="871" type="line"/>
-      <point x="237" y="871" type="line"/>
-      <point x="348" y="744" type="line"/>
+      <point x="275" y="744" type="line"/>
+      <point x="151" y="871" type="line"/>
+      <point x="240" y="871" type="line"/>
+      <point x="351" y="744" type="line"/>
     </contour>
     <contour>
-      <point x="100" y="0" type="line"/>
-      <point x="100" y="700" type="line"/>
-      <point x="503" y="700" type="line"/>
-      <point x="503" y="640" type="line"/>
-      <point x="160" y="640" type="line"/>
-      <point x="160" y="389" type="line"/>
-      <point x="439" y="389" type="line"/>
-      <point x="439" y="329" type="line"/>
-      <point x="160" y="329" type="line"/>
-      <point x="160" y="60" type="line"/>
-      <point x="503" y="60" type="line"/>
-      <point x="503" y="0" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="103" y="700" type="line"/>
+      <point x="506" y="700" type="line"/>
+      <point x="506" y="640" type="line"/>
+      <point x="163" y="640" type="line"/>
+      <point x="163" y="389" type="line"/>
+      <point x="442" y="389" type="line"/>
+      <point x="442" y="329" type="line"/>
+      <point x="163" y="329" type="line"/>
+      <point x="163" y="60" type="line"/>
+      <point x="506" y="60" type="line"/>
+      <point x="506" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -53,7 +53,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>100</integer>
+            <integer>103</integer>
             <key>width</key>
             <integer>60</integer>
           </dict>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2215" format="2">
-  <advance width="355"/>
+  <advance width="361"/>
   <unicode hex="2215"/>
   <outline>
     <contour>
-      <point x="285" y="747" type="line"/>
-      <point x="341" y="727" type="line"/>
-      <point x="72" y="-84" type="line"/>
-      <point x="15" y="-64" type="line"/>
+      <point x="288" y="747" type="line"/>
+      <point x="344" y="727" type="line"/>
+      <point x="75" y="-84" type="line"/>
+      <point x="18" y="-64" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -18,7 +18,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>15</integer>
+            <integer>18</integer>
             <key>width</key>
             <integer>326</integer>
           </dict>

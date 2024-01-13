@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iotatonos" format="2">
-  <advance width="299"/>
+  <advance width="305"/>
   <unicode hex="03AF"/>
   <outline>
     <contour>
-      <point x="45" y="500" type="line"/>
-      <point x="215" y="500" type="line"/>
-      <point x="215" y="222" type="line" smooth="yes"/>
-      <point x="215" y="207.333"/>
-      <point x="220" y="195"/>
-      <point x="230" y="185" type="curve" smooth="yes"/>
-      <point x="240" y="175"/>
-      <point x="252.333" y="170"/>
-      <point x="267" y="170" type="curve" smooth="yes"/>
-      <point x="294" y="170" type="line"/>
-      <point x="294" y="0" type="line"/>
-      <point x="267" y="0" type="line" smooth="yes"/>
-      <point x="205.667" y="0"/>
-      <point x="153.333" y="21.6667"/>
-      <point x="110" y="65" type="curve" smooth="yes"/>
-      <point x="66.6667" y="108.333"/>
-      <point x="45" y="160.667"/>
-      <point x="45" y="222" type="curve" smooth="yes"/>
+      <point x="48" y="500" type="line"/>
+      <point x="218" y="500" type="line"/>
+      <point x="218" y="222" type="line" smooth="yes"/>
+      <point x="218" y="207.333"/>
+      <point x="223" y="195"/>
+      <point x="233" y="185" type="curve" smooth="yes"/>
+      <point x="243" y="175"/>
+      <point x="255.333" y="170"/>
+      <point x="270" y="170" type="curve" smooth="yes"/>
+      <point x="297" y="170" type="line"/>
+      <point x="297" y="0" type="line"/>
+      <point x="270" y="0" type="line" smooth="yes"/>
+      <point x="208.667" y="0"/>
+      <point x="156.333" y="21.667"/>
+      <point x="113" y="65" type="curve" smooth="yes"/>
+      <point x="69.667" y="108.333"/>
+      <point x="48" y="160.667"/>
+      <point x="48" y="222" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="49" y="553.5" type="line"/>
-      <point x="105" y="700.5" type="line"/>
-      <point x="291" y="700.5" type="line"/>
-      <point x="215" y="553.5" type="line"/>
+      <point x="52" y="553.5" type="line"/>
+      <point x="108" y="700.5" type="line"/>
+      <point x="294" y="700.5" type="line"/>
+      <point x="218" y="553.5" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -59,7 +59,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>45</integer>
+            <integer>48</integer>
             <key>width</key>
             <integer>170</integer>
           </dict>

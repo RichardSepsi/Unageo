@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblright" format="2">
-  <advance width="282"/>
+  <advance width="302"/>
   <unicode hex="201D"/>
   <outline>
     <contour>
-      <point x="170" y="700" type="curve"/>
-      <point x="228" y="700" type="line"/>
-      <point x="217" y="623"/>
-      <point x="190" y="555"/>
-      <point x="147" y="498" type="curve"/>
-      <point x="89" y="498" type="line"/>
-      <point x="132" y="559"/>
-      <point x="160" y="626"/>
+      <point x="189" y="700" type="curve"/>
+      <point x="250" y="700" type="line"/>
+      <point x="238" y="623"/>
+      <point x="209" y="555"/>
+      <point x="163" y="498" type="curve"/>
+      <point x="102" y="498" type="line"/>
+      <point x="149" y="559"/>
+      <point x="177" y="626"/>
     </contour>
     <contour>
-      <point x="294" y="700" type="curve"/>
-      <point x="352" y="700" type="line"/>
-      <point x="341" y="623"/>
-      <point x="314" y="555"/>
-      <point x="271" y="498" type="curve"/>
-      <point x="213" y="498" type="line"/>
-      <point x="256" y="559"/>
-      <point x="284" y="626"/>
+      <point x="320" y="700" type="curve"/>
+      <point x="381" y="700" type="line"/>
+      <point x="369" y="623"/>
+      <point x="340" y="555"/>
+      <point x="294" y="498" type="curve"/>
+      <point x="233" y="498" type="line"/>
+      <point x="280" y="559"/>
+      <point x="308" y="626"/>
     </contour>
   </outline>
   <lib>
@@ -41,15 +41,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>170</integer>
+            <integer>189</integer>
             <key>width</key>
-            <integer>58</integer>
+            <integer>61</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>294</integer>
+            <integer>320</integer>
             <key>width</key>
-            <integer>58</integer>
+            <integer>61</integer>
           </dict>
         </array>
       </dict>

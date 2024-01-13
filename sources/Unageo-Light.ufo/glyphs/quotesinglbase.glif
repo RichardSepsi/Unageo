@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotesinglbase" format="2">
-  <advance width="196"/>
+  <advance width="202"/>
   <unicode hex="201A"/>
   <outline>
     <contour>
-      <point x="100" y="86" type="curve"/>
-      <point x="161" y="86" type="line"/>
-      <point x="161" y="9"/>
-      <point x="143" y="-59"/>
-      <point x="106" y="-116" type="curve"/>
-      <point x="45" y="-116" type="line"/>
-      <point x="82" y="-55"/>
-      <point x="100" y="12"/>
+      <point x="103" y="86" type="curve"/>
+      <point x="164" y="86" type="line"/>
+      <point x="164" y="9"/>
+      <point x="146" y="-59"/>
+      <point x="109" y="-116" type="curve"/>
+      <point x="48" y="-116" type="line"/>
+      <point x="85" y="-55"/>
+      <point x="103" y="12"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>100</integer>
+            <integer>103</integer>
             <key>width</key>
             <integer>61</integer>
           </dict>

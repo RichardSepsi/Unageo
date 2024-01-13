@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one" format="2">
-  <advance width="484"/>
+  <advance width="490"/>
   <unicode hex="0031"/>
   <outline>
     <contour>
-      <point x="234" y="700" type="line"/>
-      <point x="404" y="700" type="line"/>
-      <point x="404" y="0" type="line"/>
-      <point x="234" y="0" type="line"/>
-      <point x="234" y="478.081" type="line"/>
-      <point x="144.103" y="402.647" type="line"/>
-      <point x="34.8281" y="532.875" type="line"/>
+      <point x="237" y="700" type="line"/>
+      <point x="407" y="700" type="line"/>
+      <point x="407" y="0" type="line"/>
+      <point x="237" y="0" type="line"/>
+      <point x="237" y="478.081" type="line"/>
+      <point x="147.103" y="402.647" type="line"/>
+      <point x="37.8281" y="532.875" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -36,7 +36,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>234</integer>
+            <integer>237</integer>
             <key>width</key>
             <integer>170</integer>
           </dict>

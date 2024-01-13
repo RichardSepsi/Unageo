@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Igrave" format="2">
-  <advance width="275"/>
+  <advance width="296"/>
   <unicode hex="00CC"/>
   <outline>
     <contour>
-      <point x="159" y="754" type="line"/>
-      <point x="60" y="901" type="line"/>
-      <point x="246" y="901" type="line"/>
-      <point x="326" y="754" type="line"/>
+      <point x="178" y="754" type="line"/>
+      <point x="75" y="901" type="line"/>
+      <point x="271" y="901" type="line"/>
+      <point x="354" y="754" type="line"/>
     </contour>
     <contour>
-      <point x="57" y="0" type="line"/>
-      <point x="155" y="700" type="line"/>
-      <point x="317" y="700" type="line"/>
-      <point x="218" y="0" type="line"/>
+      <point x="63" y="0" type="line"/>
+      <point x="174" y="700" type="line"/>
+      <point x="344" y="700" type="line"/>
+      <point x="233" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -45,15 +45,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>57</integer>
+            <integer>63</integer>
             <key>width</key>
-            <integer>161</integer>
+            <integer>170</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>155</integer>
+            <integer>174</integer>
             <key>width</key>
-            <integer>162</integer>
+            <integer>170</integer>
           </dict>
         </array>
       </dict>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi" format="2">
-  <advance width="209"/>
+  <advance width="225"/>
   <unicode hex="0131"/>
   <outline>
     <contour>
-      <point x="75" y="0" type="line"/>
-      <point x="145" y="500" type="line"/>
-      <point x="202" y="500" type="line"/>
-      <point x="132" y="0" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="161" y="500" type="line"/>
+      <point x="221" y="500" type="line"/>
+      <point x="142" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,15 +33,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>75</integer>
+            <integer>82</integer>
             <key>width</key>
-            <integer>57</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>145</integer>
+            <integer>161</integer>
             <key>width</key>
-            <integer>57</integer>
+            <integer>60</integer>
           </dict>
         </array>
       </dict>

@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="numbersign" format="2">
-  <advance width="596"/>
+  <advance width="633"/>
   <unicode hex="0023"/>
   <outline>
     <contour>
-      <point x="525" y="700" type="line"/>
-      <point x="583" y="700" type="line"/>
-      <point x="524" y="508" type="line"/>
-      <point x="657" y="508" type="line"/>
-      <point x="639" y="448" type="line"/>
-      <point x="505" y="448" type="line"/>
-      <point x="450" y="268" type="line"/>
-      <point x="583" y="268" type="line"/>
-      <point x="565" y="208" type="line"/>
-      <point x="432" y="208" type="line"/>
-      <point x="367" y="0" type="line"/>
-      <point x="310" y="0" type="line"/>
-      <point x="374" y="208" type="line"/>
-      <point x="213" y="208" type="line"/>
-      <point x="149" y="0" type="line"/>
-      <point x="91" y="0" type="line"/>
-      <point x="155" y="208" type="line"/>
-      <point x="39" y="208" type="line"/>
-      <point x="57" y="268" type="line"/>
-      <point x="174" y="268" type="line"/>
-      <point x="229" y="448" type="line"/>
-      <point x="112" y="448" type="line"/>
-      <point x="131" y="508" type="line"/>
-      <point x="248" y="508" type="line"/>
-      <point x="307" y="700" type="line"/>
-      <point x="365" y="700" type="line"/>
-      <point x="305" y="508" type="line"/>
-      <point x="466" y="508" type="line"/>
+      <point x="563" y="700" type="line"/>
+      <point x="624" y="700" type="line"/>
+      <point x="560" y="508" type="line"/>
+      <point x="700" y="508" type="line"/>
+      <point x="680" y="448" type="line"/>
+      <point x="540" y="448" type="line"/>
+      <point x="480" y="269" type="line"/>
+      <point x="620" y="269" type="line"/>
+      <point x="600" y="208" type="line"/>
+      <point x="459" y="208" type="line"/>
+      <point x="390" y="0" type="line"/>
+      <point x="329" y="0" type="line"/>
+      <point x="399" y="208" type="line"/>
+      <point x="229" y="208" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="168" y="208" type="line"/>
+      <point x="46" y="208" type="line"/>
+      <point x="67" y="269" type="line"/>
+      <point x="189" y="269" type="line"/>
+      <point x="249" y="448" type="line"/>
+      <point x="126" y="448" type="line"/>
+      <point x="145" y="508" type="line"/>
+      <point x="269" y="508" type="line"/>
+      <point x="333" y="700" type="line"/>
+      <point x="394" y="700" type="line"/>
+      <point x="329" y="508" type="line"/>
+      <point x="499" y="508" type="line"/>
     </contour>
     <contour>
-      <point x="448" y="448" type="line"/>
-      <point x="287" y="448" type="line"/>
-      <point x="232" y="268" type="line"/>
-      <point x="392" y="268" type="line"/>
+      <point x="479" y="448" type="line"/>
+      <point x="310" y="448" type="line"/>
+      <point x="250" y="269" type="line"/>
+      <point x="419" y="269" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -56,7 +56,7 @@
             <key>position</key>
             <integer>208</integer>
             <key>width</key>
-            <integer>60</integer>
+            <integer>61</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -69,27 +69,6 @@
             <integer>680</integer>
             <key>width</key>
             <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>91</integer>
-            <key>width</key>
-            <integer>58</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>310</integer>
-            <key>width</key>
-            <integer>57</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>525</integer>
-            <key>width</key>
-            <integer>58</integer>
           </dict>
         </array>
       </dict>

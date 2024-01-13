@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute" format="2">
-  <advance width="194"/>
+  <advance width="210"/>
   <unicode hex="00B4"/>
   <outline>
     <contour>
-      <point x="82" y="574" type="line"/>
-      <point x="203" y="700" type="line"/>
-      <point x="287" y="700" type="line"/>
-      <point x="154" y="574" type="line"/>
+      <point x="95" y="574" type="line"/>
+      <point x="224" y="700" type="line"/>
+      <point x="313" y="700" type="line"/>
+      <point x="171" y="574" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,9 +27,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>82</integer>
+            <integer>95</integer>
             <key>width</key>
-            <integer>205</integer>
+            <integer>218</integer>
           </dict>
         </array>
       </dict>

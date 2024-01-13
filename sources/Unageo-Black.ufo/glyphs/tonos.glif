@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tonos" format="2">
-  <advance width="0"/>
+  <advance width="6"/>
   <unicode hex="0384"/>
   <outline>
     <contour>
-      <point x="265" y="553.5" type="line"/>
-      <point x="321" y="700.5" type="line"/>
-      <point x="507" y="700.5" type="line"/>
-      <point x="431" y="553.5" type="line"/>
+      <point x="268" y="553.5" type="line"/>
+      <point x="324" y="700.5" type="line"/>
+      <point x="510" y="700.5" type="line"/>
+      <point x="434" y="553.5" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +27,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>265</integer>
+            <integer>268</integer>
             <key>width</key>
             <integer>242</integer>
           </dict>

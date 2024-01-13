@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0492" format="2">
-  <advance width="487"/>
+  <advance width="493"/>
   <unicode hex="0492"/>
   <outline>
     <contour>
-      <point x="80" y="0" type="line"/>
-      <point x="80" y="700" type="line"/>
-      <point x="483" y="700" type="line"/>
-      <point x="483" y="640" type="line"/>
-      <point x="140" y="640" type="line"/>
-      <point x="140" y="0" type="line"/>
+      <point x="83" y="0" type="line"/>
+      <point x="83" y="700" type="line"/>
+      <point x="486" y="700" type="line"/>
+      <point x="486" y="640" type="line"/>
+      <point x="143" y="640" type="line"/>
+      <point x="143" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="5" y="337" type="line"/>
-      <point x="5" y="397" type="line"/>
-      <point x="293" y="397" type="line"/>
-      <point x="293" y="337" type="line"/>
+      <point x="8" y="337" type="line"/>
+      <point x="8" y="397" type="line"/>
+      <point x="296" y="397" type="line"/>
+      <point x="296" y="337" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -47,7 +47,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>80</integer>
+            <integer>83</integer>
             <key>width</key>
             <integer>60</integer>
           </dict>

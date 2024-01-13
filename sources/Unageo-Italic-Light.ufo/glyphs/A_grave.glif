@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Agrave" format="2">
-  <advance width="571"/>
+  <advance width="607"/>
   <unicode hex="00C0"/>
   <outline>
     <contour>
-      <point x="355" y="744" type="line"/>
-      <point x="255" y="871" type="line"/>
-      <point x="340" y="871" type="line"/>
-      <point x="428" y="744" type="line"/>
+      <point x="385" y="744" type="line"/>
+      <point x="281" y="871" type="line"/>
+      <point x="370" y="871" type="line"/>
+      <point x="461" y="744" type="line"/>
     </contour>
     <contour>
-      <point x="200" y="265" type="line"/>
-      <point x="446" y="265" type="line"/>
-      <point x="373" y="619" type="line"/>
+      <point x="216" y="265" type="line"/>
+      <point x="476" y="265" type="line"/>
+      <point x="402" y="619" type="line"/>
     </contour>
     <contour>
-      <point x="171" y="205" type="line"/>
-      <point x="71" y="0" type="line"/>
-      <point x="10" y="0" type="line"/>
-      <point x="356" y="700" type="line"/>
-      <point x="412" y="700" type="line"/>
-      <point x="562" y="0" type="line"/>
-      <point x="501" y="0" type="line"/>
-      <point x="459" y="205" type="line"/>
+      <point x="184" y="205" type="line"/>
+      <point x="78" y="0" type="line"/>
+      <point x="13" y="0" type="line"/>
+      <point x="385" y="700" type="line"/>
+      <point x="445" y="700" type="line"/>
+      <point x="595" y="0" type="line"/>
+      <point x="530" y="0" type="line"/>
+      <point x="488" y="205" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -54,9 +54,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>501</integer>
+            <integer>530</integer>
             <key>width</key>
-            <integer>61</integer>
+            <integer>65</integer>
           </dict>
         </array>
       </dict>

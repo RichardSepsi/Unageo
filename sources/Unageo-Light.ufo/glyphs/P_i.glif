@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Pi" format="2">
-  <advance width="650"/>
+  <advance width="656"/>
   <unicode hex="03A0"/>
   <outline>
     <contour>
-      <point x="80" y="700" type="line"/>
-      <point x="571" y="700" type="line"/>
-      <point x="571" y="0" type="line"/>
-      <point x="511" y="0" type="line"/>
-      <point x="511" y="640" type="line"/>
-      <point x="140" y="640" type="line"/>
-      <point x="140" y="0" type="line"/>
-      <point x="80" y="0" type="line"/>
+      <point x="83" y="700" type="line"/>
+      <point x="574" y="700" type="line"/>
+      <point x="574" y="0" type="line"/>
+      <point x="514" y="0" type="line"/>
+      <point x="514" y="640" type="line"/>
+      <point x="143" y="640" type="line"/>
+      <point x="143" y="0" type="line"/>
+      <point x="83" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,13 +37,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>80</integer>
+            <integer>83</integer>
             <key>width</key>
             <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>511</integer>
+            <integer>514</integer>
             <key>width</key>
             <integer>60</integer>
           </dict>

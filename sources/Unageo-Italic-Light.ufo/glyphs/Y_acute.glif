@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Yacute" format="2">
-  <advance width="499"/>
+  <advance width="531"/>
   <unicode hex="00DD"/>
   <outline>
     <contour>
-      <point x="304" y="744" type="line"/>
-      <point x="425" y="870" type="line"/>
-      <point x="509" y="870" type="line"/>
-      <point x="376" y="744" type="line"/>
+      <point x="330" y="744" type="line"/>
+      <point x="459" y="870" type="line"/>
+      <point x="549" y="870" type="line"/>
+      <point x="407" y="744" type="line"/>
     </contour>
     <contour>
-      <point x="108" y="700" type="line"/>
-      <point x="175" y="700" type="line"/>
-      <point x="305" y="390" type="line"/>
-      <point x="521" y="700" type="line"/>
-      <point x="589" y="700" type="line"/>
-      <point x="323" y="321" type="line"/>
-      <point x="278" y="0" type="line"/>
-      <point x="221" y="0" type="line"/>
-      <point x="266" y="321" type="line"/>
+      <point x="124" y="700" type="line"/>
+      <point x="195" y="700" type="line"/>
+      <point x="328" y="390" type="line"/>
+      <point x="559" y="700" type="line"/>
+      <point x="630" y="700" type="line"/>
+      <point x="347" y="321" type="line"/>
+      <point x="296" y="0" type="line"/>
+      <point x="236" y="0" type="line"/>
+      <point x="287" y="321" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -44,9 +44,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>221</integer>
+            <integer>236</integer>
             <key>width</key>
-            <integer>57</integer>
+            <integer>60</integer>
           </dict>
         </array>
       </dict>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Icircumflex" format="2">
-  <advance width="259"/>
+  <advance width="265"/>
   <unicode hex="00CE"/>
   <outline>
     <contour>
-      <point x="-32" y="744" type="line"/>
-      <point x="88" y="870" type="line"/>
-      <point x="170" y="870" type="line"/>
-      <point x="290" y="744" type="line"/>
-      <point x="208" y="744" type="line"/>
-      <point x="129" y="824" type="line"/>
-      <point x="50" y="744" type="line"/>
+      <point x="-29" y="744" type="line"/>
+      <point x="91" y="870" type="line"/>
+      <point x="173" y="870" type="line"/>
+      <point x="293" y="744" type="line"/>
+      <point x="211" y="744" type="line"/>
+      <point x="132" y="824" type="line"/>
+      <point x="53" y="744" type="line"/>
     </contour>
     <contour>
-      <point x="100" y="0" type="line"/>
-      <point x="100" y="700" type="line"/>
-      <point x="160" y="700" type="line"/>
-      <point x="160" y="0" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="103" y="700" type="line"/>
+      <point x="163" y="700" type="line"/>
+      <point x="163" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -48,7 +48,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>100</integer>
+            <integer>103</integer>
             <key>width</key>
             <integer>60</integer>
           </dict>

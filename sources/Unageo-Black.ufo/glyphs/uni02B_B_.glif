@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02BB" format="2">
-  <advance width="314"/>
+  <advance width="320"/>
   <unicode hex="02BB"/>
   <outline>
     <contour>
-      <point x="219" y="457" type="curve"/>
-      <point x="39" y="457" type="line"/>
-      <point x="39" y="559"/>
-      <point x="74.333" y="645.333"/>
-      <point x="145" y="716" type="curve"/>
-      <point x="285" y="716" type="line"/>
-      <point x="241" y="634.286"/>
-      <point x="219" y="547.952"/>
+      <point x="222" y="457" type="curve"/>
+      <point x="42" y="457" type="line"/>
+      <point x="42" y="559"/>
+      <point x="77.333" y="645.333"/>
+      <point x="148" y="716" type="curve"/>
+      <point x="288" y="716" type="line"/>
+      <point x="244" y="634.286"/>
+      <point x="222" y="547.952"/>
     </contour>
   </outline>
   <lib>
@@ -31,7 +31,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>39</integer>
+            <integer>42</integer>
             <key>width</key>
             <integer>180</integer>
           </dict>

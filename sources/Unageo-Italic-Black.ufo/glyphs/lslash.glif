@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash" format="2">
-  <advance width="275"/>
+  <advance width="296"/>
   <unicode hex="0142"/>
   <outline>
     <contour>
-      <point x="27" y="190" type="line"/>
-      <point x="54" y="383" type="line"/>
-      <point x="351" y="537" type="line"/>
-      <point x="324" y="344" type="line"/>
+      <point x="33" y="190" type="line"/>
+      <point x="64" y="383" type="line"/>
+      <point x="378" y="537" type="line"/>
+      <point x="348" y="344" type="line"/>
     </contour>
     <contour>
-      <point x="52" y="0" type="line"/>
-      <point x="151" y="700" type="line"/>
-      <point x="322" y="700" type="line"/>
-      <point x="223" y="0" type="line"/>
+      <point x="58" y="0" type="line"/>
+      <point x="169" y="700" type="line"/>
+      <point x="349" y="700" type="line"/>
+      <point x="238" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,15 +39,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>52</integer>
+            <integer>58</integer>
             <key>width</key>
-            <integer>171</integer>
+            <integer>180</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>151</integer>
+            <integer>169</integer>
             <key>width</key>
-            <integer>171</integer>
+            <integer>180</integer>
           </dict>
         </array>
       </dict>

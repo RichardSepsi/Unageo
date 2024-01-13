@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="multiply" format="2">
-  <advance width="619"/>
+  <advance width="625"/>
   <unicode hex="00D7"/>
   <outline>
     <contour>
-      <point x="163" y="106" type="line"/>
-      <point x="121" y="148" type="line"/>
-      <point x="269" y="296" type="line"/>
-      <point x="121" y="444" type="line"/>
-      <point x="163" y="487" type="line"/>
-      <point x="311" y="339" type="line"/>
-      <point x="459" y="487" type="line"/>
-      <point x="502" y="444" type="line"/>
-      <point x="354" y="296" type="line"/>
-      <point x="502" y="148" type="line"/>
-      <point x="459" y="106" type="line"/>
-      <point x="311" y="254" type="line"/>
+      <point x="166" y="106" type="line"/>
+      <point x="124" y="148" type="line"/>
+      <point x="272" y="296" type="line"/>
+      <point x="124" y="444" type="line"/>
+      <point x="166" y="487" type="line"/>
+      <point x="314" y="339" type="line"/>
+      <point x="462" y="487" type="line"/>
+      <point x="505" y="444" type="line"/>
+      <point x="357" y="296" type="line"/>
+      <point x="505" y="148" type="line"/>
+      <point x="462" y="106" type="line"/>
+      <point x="314" y="254" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,7 +35,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>269</integer>
+            <integer>272</integer>
             <key>width</key>
             <integer>85</integer>
           </dict>

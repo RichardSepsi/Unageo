@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcaron" format="2">
-  <advance width="260"/>
+  <advance width="266"/>
   <unicode hex="013E"/>
   <outline>
     <contour>
-      <point x="237" y="550" type="line"/>
-      <point x="259" y="700" type="line"/>
-      <point x="409" y="700" type="line"/>
-      <point x="367" y="550" type="line"/>
+      <point x="240" y="550" type="line"/>
+      <point x="262" y="700" type="line"/>
+      <point x="412" y="700" type="line"/>
+      <point x="370" y="550" type="line"/>
     </contour>
     <contour>
-      <point x="45" y="700" type="line"/>
-      <point x="215" y="700" type="line"/>
-      <point x="215" y="0" type="line"/>
-      <point x="45" y="0" type="line"/>
+      <point x="48" y="700" type="line"/>
+      <point x="218" y="700" type="line"/>
+      <point x="218" y="0" type="line"/>
+      <point x="48" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +39,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>45</integer>
+            <integer>48</integer>
             <key>width</key>
             <integer>170</integer>
           </dict>

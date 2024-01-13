@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Psi" format="2">
-  <advance width="680"/>
+  <advance width="686"/>
   <unicode hex="03A8"/>
   <outline>
     <contour>
-      <point x="20" y="700" type="line"/>
-      <point x="190" y="700" type="line"/>
-      <point x="190" y="500" type="line" smooth="yes"/>
-      <point x="190" y="458.667"/>
-      <point x="204.667" y="423.333"/>
-      <point x="234" y="394" type="curve" smooth="yes"/>
-      <point x="240.688" y="387.312"/>
-      <point x="247.688" y="381.386"/>
-      <point x="255" y="376.223" type="curve"/>
-      <point x="255" y="700" type="line"/>
-      <point x="425" y="700" type="line"/>
-      <point x="425" y="376.223" type="line"/>
-      <point x="432.312" y="381.386"/>
-      <point x="439.312" y="387.312"/>
-      <point x="446" y="394" type="curve" smooth="yes"/>
-      <point x="475.333" y="423.333"/>
-      <point x="490" y="458.667"/>
-      <point x="490" y="500" type="curve" smooth="yes"/>
-      <point x="490" y="700" type="line"/>
-      <point x="660" y="700" type="line"/>
-      <point x="660" y="500" type="line" smooth="yes"/>
-      <point x="660" y="412"/>
-      <point x="628.667" y="336.667"/>
-      <point x="566" y="274" type="curve" smooth="yes"/>
-      <point x="524.543" y="232.543"/>
-      <point x="477.543" y="204.799"/>
-      <point x="425" y="190.768" type="curve"/>
-      <point x="425" y="0" type="line"/>
-      <point x="255" y="0" type="line"/>
-      <point x="255" y="190.768" type="line"/>
-      <point x="202.457" y="204.799"/>
-      <point x="155.457" y="232.543"/>
-      <point x="114" y="274" type="curve" smooth="yes"/>
-      <point x="51.3333" y="336.667"/>
-      <point x="20" y="412"/>
-      <point x="20" y="500" type="curve" smooth="yes"/>
+      <point x="23" y="700" type="line"/>
+      <point x="193" y="700" type="line"/>
+      <point x="193" y="500" type="line" smooth="yes"/>
+      <point x="193" y="458.667"/>
+      <point x="207.667" y="423.333"/>
+      <point x="237" y="394" type="curve" smooth="yes"/>
+      <point x="243.688" y="387.312"/>
+      <point x="250.688" y="381.387"/>
+      <point x="258" y="376.223" type="curve"/>
+      <point x="258" y="700" type="line"/>
+      <point x="428" y="700" type="line"/>
+      <point x="428" y="376.223" type="line"/>
+      <point x="435.312" y="381.387"/>
+      <point x="442.312" y="387.312"/>
+      <point x="449" y="394" type="curve" smooth="yes"/>
+      <point x="478.333" y="423.333"/>
+      <point x="493" y="458.667"/>
+      <point x="493" y="500" type="curve" smooth="yes"/>
+      <point x="493" y="700" type="line"/>
+      <point x="663" y="700" type="line"/>
+      <point x="663" y="500" type="line" smooth="yes"/>
+      <point x="663" y="412"/>
+      <point x="631.667" y="336.667"/>
+      <point x="569" y="274" type="curve" smooth="yes"/>
+      <point x="527.543" y="232.543"/>
+      <point x="480.543" y="204.8"/>
+      <point x="428" y="190.769" type="curve"/>
+      <point x="428" y="0" type="line"/>
+      <point x="258" y="0" type="line"/>
+      <point x="258" y="190.769" type="line"/>
+      <point x="205.457" y="204.8"/>
+      <point x="158.457" y="232.543"/>
+      <point x="117" y="274" type="curve" smooth="yes"/>
+      <point x="54.333" y="336.667"/>
+      <point x="23" y="412"/>
+      <point x="23" y="500" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -65,19 +65,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>20</integer>
+            <integer>23</integer>
             <key>width</key>
             <integer>170</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>255</integer>
+            <integer>258</integer>
             <key>width</key>
             <integer>170</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>490</integer>
+            <integer>493</integer>
             <key>width</key>
             <integer>170</integer>
           </dict>

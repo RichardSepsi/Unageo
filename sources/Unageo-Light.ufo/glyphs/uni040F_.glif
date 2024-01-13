@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni040F" format="2">
-  <advance width="650"/>
+  <advance width="656"/>
   <unicode hex="040F"/>
   <outline>
     <contour>
-      <point x="80" y="0" type="line"/>
-      <point x="80" y="700" type="line"/>
-      <point x="140" y="700" type="line"/>
-      <point x="140" y="60" type="line"/>
-      <point x="511" y="60" type="line"/>
-      <point x="511" y="700" type="line"/>
-      <point x="571" y="700" type="line"/>
-      <point x="571" y="0" type="line"/>
-      <point x="355" y="0" type="line"/>
-      <point x="355" y="-160" type="line"/>
-      <point x="295" y="-160" type="line"/>
-      <point x="295" y="0" type="line"/>
+      <point x="83" y="0" type="line"/>
+      <point x="83" y="700" type="line"/>
+      <point x="143" y="700" type="line"/>
+      <point x="143" y="60" type="line"/>
+      <point x="514" y="60" type="line"/>
+      <point x="514" y="700" type="line"/>
+      <point x="574" y="700" type="line"/>
+      <point x="574" y="0" type="line"/>
+      <point x="358" y="0" type="line"/>
+      <point x="358" y="-160" type="line"/>
+      <point x="298" y="-160" type="line"/>
+      <point x="298" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,19 +41,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>80</integer>
+            <integer>83</integer>
             <key>width</key>
             <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>295</integer>
+            <integer>298</integer>
             <key>width</key>
             <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>511</integer>
+            <integer>514</integer>
             <key>width</key>
             <integer>60</integer>
           </dict>

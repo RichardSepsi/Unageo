@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="2">
-  <advance width="558"/>
+  <advance width="593"/>
   <unicode hex="004B"/>
   <outline>
     <contour>
-      <point x="95" y="0" type="line"/>
-      <point x="193" y="700" type="line"/>
-      <point x="250" y="700" type="line"/>
-      <point x="202" y="359" type="line"/>
-      <point x="565" y="700" type="line"/>
-      <point x="643" y="700" type="line"/>
-      <point x="308" y="383" type="line"/>
-      <point x="554" y="0" type="line"/>
-      <point x="480" y="0" type="line"/>
-      <point x="262" y="339" type="line"/>
-      <point x="190" y="272" type="line"/>
-      <point x="152" y="0" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="214" y="700" type="line"/>
+      <point x="274" y="700" type="line"/>
+      <point x="220" y="359" type="line"/>
+      <point x="605" y="700" type="line"/>
+      <point x="687" y="700" type="line"/>
+      <point x="331" y="383" type="line"/>
+      <point x="586" y="0" type="line"/>
+      <point x="508" y="0" type="line"/>
+      <point x="283" y="339" type="line"/>
+      <point x="206" y="271" type="line"/>
+      <point x="163" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,15 +41,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>95</integer>
+            <integer>103</integer>
             <key>width</key>
-            <integer>57</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>193</integer>
+            <integer>214</integer>
             <key>width</key>
-            <integer>57</integer>
+            <integer>60</integer>
           </dict>
         </array>
       </dict>

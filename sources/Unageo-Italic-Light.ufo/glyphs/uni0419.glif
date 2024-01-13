@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0419" format="2">
-  <advance width="697"/>
+  <advance width="739"/>
   <unicode hex="0419"/>
   <outline>
     <contour>
-      <point x="701" y="700" type="line"/>
-      <point x="644" y="700" type="line"/>
-      <point x="167" y="106" type="line"/>
-      <point x="250" y="700" type="line"/>
-      <point x="193" y="700" type="line"/>
-      <point x="95" y="0" type="line"/>
-      <point x="152" y="0" type="line"/>
-      <point x="629" y="594" type="line"/>
-      <point x="545" y="0" type="line"/>
-      <point x="602" y="0" type="line"/>
+      <point x="748" y="700" type="line"/>
+      <point x="688" y="700" type="line"/>
+      <point x="180" y="106" type="line"/>
+      <point x="274" y="700" type="line"/>
+      <point x="214" y="700" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="163" y="0" type="line"/>
+      <point x="671" y="594" type="line"/>
+      <point x="577" y="0" type="line"/>
+      <point x="637" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="343" y="870" type="curve"/>
-      <point x="400" y="870" type="line"/>
-      <point x="397" y="849"/>
-      <point x="402" y="832"/>
-      <point x="416" y="819" type="curve" smooth="yes"/>
-      <point x="430" y="806"/>
-      <point x="449" y="799"/>
-      <point x="472" y="799" type="curve" smooth="yes"/>
-      <point x="495" y="799"/>
-      <point x="516" y="806"/>
-      <point x="534" y="819" type="curve" smooth="yes"/>
-      <point x="552" y="832"/>
-      <point x="562" y="849"/>
-      <point x="565" y="870" type="curve"/>
-      <point x="622" y="870" type="line"/>
-      <point x="617" y="834"/>
-      <point x="600" y="804"/>
-      <point x="569" y="778" type="curve" smooth="yes"/>
-      <point x="538" y="752"/>
-      <point x="503" y="739"/>
-      <point x="464" y="739" type="curve" smooth="yes"/>
-      <point x="425" y="739"/>
-      <point x="393" y="752"/>
-      <point x="370" y="778" type="curve" smooth="yes"/>
-      <point x="347" y="804"/>
-      <point x="338" y="834"/>
+      <point x="373" y="870" type="curve"/>
+      <point x="433" y="870" type="line"/>
+      <point x="430" y="849"/>
+      <point x="435" y="832"/>
+      <point x="450" y="819" type="curve" smooth="yes"/>
+      <point x="465" y="806"/>
+      <point x="484" y="799"/>
+      <point x="509" y="799" type="curve" smooth="yes"/>
+      <point x="534" y="799"/>
+      <point x="555" y="806"/>
+      <point x="574" y="819" type="curve" smooth="yes"/>
+      <point x="593" y="832"/>
+      <point x="604" y="849"/>
+      <point x="607" y="870" type="curve"/>
+      <point x="667" y="870" type="line"/>
+      <point x="661" y="834"/>
+      <point x="641" y="803"/>
+      <point x="609" y="777" type="curve" smooth="yes"/>
+      <point x="577" y="751"/>
+      <point x="541" y="739"/>
+      <point x="499" y="739" type="curve" smooth="yes"/>
+      <point x="457" y="739"/>
+      <point x="424" y="751"/>
+      <point x="400" y="777" type="curve" smooth="yes"/>
+      <point x="376" y="803"/>
+      <point x="367" y="834"/>
     </contour>
   </outline>
   <lib>
@@ -61,27 +61,21 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>193</integer>
+            <integer>214</integer>
             <key>width</key>
-            <integer>57</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>343</integer>
+            <integer>373</integer>
             <key>width</key>
-            <integer>57</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>545</integer>
+            <integer>577</integer>
             <key>width</key>
-            <integer>57</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>565</integer>
-            <key>width</key>
-            <integer>57</integer>
+            <integer>60</integer>
           </dict>
         </array>
       </dict>

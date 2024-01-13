@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Imacron" format="2">
-  <advance width="259"/>
+  <advance width="265"/>
   <unicode hex="012A"/>
   <outline>
     <contour>
-      <point x="-20" y="750" type="line"/>
-      <point x="-20" y="810" type="line"/>
-      <point x="280" y="810" type="line"/>
-      <point x="280" y="750" type="line"/>
+      <point x="-17" y="750" type="line"/>
+      <point x="-17" y="810" type="line"/>
+      <point x="283" y="810" type="line"/>
+      <point x="283" y="750" type="line"/>
     </contour>
     <contour>
-      <point x="100" y="0" type="line"/>
-      <point x="100" y="700" type="line"/>
-      <point x="160" y="700" type="line"/>
-      <point x="160" y="0" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="103" y="700" type="line"/>
+      <point x="163" y="700" type="line"/>
+      <point x="163" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -45,7 +45,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>100</integer>
+            <integer>103</integer>
             <key>width</key>
             <integer>60</integer>
           </dict>

@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greaterequal" format="2">
-  <advance width="589"/>
+  <advance width="625"/>
   <unicode hex="2265"/>
   <outline>
     <contour>
-      <point x="132" y="0" type="line"/>
-      <point x="446" y="0" type="line"/>
-      <point x="455" y="60" type="line"/>
-      <point x="140" y="60" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="473" y="0" type="line"/>
+      <point x="483" y="60" type="line"/>
+      <point x="152" y="60" type="line"/>
     </contour>
     <contour>
-      <point x="156" y="170" type="line"/>
-      <point x="147" y="106" type="line"/>
-      <point x="484" y="266" type="line"/>
-      <point x="493" y="332" type="line"/>
+      <point x="169" y="170" type="line"/>
+      <point x="159" y="105" type="line"/>
+      <point x="515" y="266" type="line"/>
+      <point x="526" y="332" type="line"/>
     </contour>
     <contour>
-      <point x="201" y="490" type="line"/>
-      <point x="192" y="424" type="line"/>
-      <point x="484" y="266" type="line"/>
-      <point x="493" y="332" type="line"/>
+      <point x="220" y="491" type="line"/>
+      <point x="209" y="424" type="line"/>
+      <point x="515" y="266" type="line"/>
+      <point x="526" y="332" type="line"/>
     </contour>
   </outline>
 </glyph>

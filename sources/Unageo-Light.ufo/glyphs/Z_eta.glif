@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zeta" format="2">
-  <advance width="602"/>
+  <advance width="608"/>
   <unicode hex="0396"/>
   <outline>
     <contour>
-      <point x="50" y="0" type="line"/>
-      <point x="50" y="60" type="line"/>
-      <point x="478" y="640" type="line"/>
-      <point x="53" y="640" type="line"/>
-      <point x="53" y="700" type="line"/>
-      <point x="553" y="700" type="line"/>
-      <point x="553" y="640" type="line"/>
-      <point x="125" y="60" type="line"/>
-      <point x="550" y="60" type="line"/>
-      <point x="550" y="0" type="line"/>
+      <point x="53" y="0" type="line"/>
+      <point x="53" y="60" type="line"/>
+      <point x="481" y="640" type="line"/>
+      <point x="56" y="640" type="line"/>
+      <point x="56" y="700" type="line"/>
+      <point x="556" y="700" type="line"/>
+      <point x="556" y="640" type="line"/>
+      <point x="128" y="60" type="line"/>
+      <point x="553" y="60" type="line"/>
+      <point x="553" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

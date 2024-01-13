@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wcircumflex" format="2">
-  <advance width="803"/>
+  <advance width="852"/>
   <unicode hex="0175"/>
   <outline>
     <contour>
-      <point x="268" y="554" type="line"/>
-      <point x="412" y="700" type="line"/>
-      <point x="571" y="700" type="line"/>
-      <point x="674" y="554" type="line"/>
-      <point x="518" y="554" type="line"/>
-      <point x="478" y="606" type="line"/>
-      <point x="425" y="554" type="line"/>
+      <point x="291" y="554" type="line"/>
+      <point x="444" y="700" type="line"/>
+      <point x="611" y="700" type="line"/>
+      <point x="718" y="554" type="line"/>
+      <point x="554" y="554" type="line"/>
+      <point x="513" y="606" type="line"/>
+      <point x="456" y="554" type="line"/>
     </contour>
     <contour>
-      <point x="695" y="500" type="line"/>
-      <point x="864" y="500" type="line"/>
-      <point x="640" y="0" type="line"/>
-      <point x="471" y="0" type="line"/>
-      <point x="433" y="225" type="line"/>
-      <point x="332" y="0" type="line"/>
-      <point x="163" y="0" type="line"/>
-      <point x="80" y="500" type="line"/>
-      <point x="249" y="500" type="line"/>
-      <point x="286" y="275" type="line"/>
-      <point x="388" y="500" type="line"/>
-      <point x="557" y="500" type="line"/>
-      <point x="594" y="275" type="line"/>
+      <point x="740" y="500" type="line"/>
+      <point x="918" y="500" type="line"/>
+      <point x="677" y="0" type="line"/>
+      <point x="498" y="0" type="line"/>
+      <point x="461" y="225" type="line"/>
+      <point x="353" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="92" y="500" type="line"/>
+      <point x="270" y="500" type="line"/>
+      <point x="307" y="275" type="line"/>
+      <point x="416" y="500" type="line"/>
+      <point x="594" y="500" type="line"/>
+      <point x="631" y="275" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -48,18 +48,18 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>680</integer>
+            <integer>554</integer>
             <key>width</key>
-            <integer>20</integer>
+            <integer>146</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>80</integer>
+            <integer>92</integer>
             <key>width</key>
-            <integer>169</integer>
+            <integer>178</integer>
           </dict>
         </array>
       </dict>

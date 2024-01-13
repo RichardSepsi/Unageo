@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lacute" format="2">
-  <advance width="260"/>
+  <advance width="266"/>
   <unicode hex="013A"/>
   <outline>
     <contour>
-      <point x="37" y="753.5" type="line"/>
-      <point x="143" y="900.5" type="line"/>
-      <point x="339" y="900.5" type="line"/>
-      <point x="213" y="753.5" type="line"/>
+      <point x="40" y="753.5" type="line"/>
+      <point x="146" y="900.5" type="line"/>
+      <point x="342" y="900.5" type="line"/>
+      <point x="216" y="753.5" type="line"/>
     </contour>
     <contour>
-      <point x="45" y="700" type="line"/>
-      <point x="215" y="700" type="line"/>
-      <point x="215" y="0" type="line"/>
-      <point x="45" y="0" type="line"/>
+      <point x="48" y="700" type="line"/>
+      <point x="218" y="700" type="line"/>
+      <point x="218" y="0" type="line"/>
+      <point x="48" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -45,7 +45,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>45</integer>
+            <integer>48</integer>
             <key>width</key>
             <integer>170</integer>
           </dict>

@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onequarter" format="2">
-  <advance width="805"/>
+  <advance width="854"/>
   <unicode hex="00BC"/>
   <outline>
     <contour>
-      <point x="623" y="420" type="line"/>
-      <point x="705" y="377" type="line"/>
-      <point x="578" y="167" type="line"/>
-      <point x="647" y="167" type="line"/>
-      <point x="663" y="279" type="line"/>
-      <point x="760" y="279" type="line"/>
-      <point x="744" y="167" type="line"/>
-      <point x="794" y="167" type="line"/>
-      <point x="779" y="65" type="line"/>
-      <point x="730" y="65" type="line"/>
-      <point x="720" y="0" type="line"/>
-      <point x="624" y="0" type="line"/>
-      <point x="633" y="65" type="line"/>
-      <point x="457" y="65" type="line"/>
-      <point x="471" y="167" type="line"/>
+      <point x="663" y="420" type="line"/>
+      <point x="749" y="377" type="line"/>
+      <point x="613" y="167" type="line"/>
+      <point x="686" y="167" type="line"/>
+      <point x="704" y="279" type="line"/>
+      <point x="806" y="279" type="line"/>
+      <point x="788" y="167" type="line"/>
+      <point x="840" y="167" type="line"/>
+      <point x="824" y="65" type="line"/>
+      <point x="772" y="65" type="line"/>
+      <point x="761" y="0" type="line"/>
+      <point x="659" y="0" type="line"/>
+      <point x="670" y="65" type="line"/>
+      <point x="485" y="65" type="line"/>
+      <point x="501" y="167" type="line"/>
     </contour>
     <contour>
-      <point x="644" y="697" type="line"/>
-      <point x="724" y="633" type="line"/>
-      <point x="215" y="12" type="line"/>
-      <point x="137" y="75" type="line"/>
+      <point x="688" y="697" type="line"/>
+      <point x="772" y="633" type="line"/>
+      <point x="230" y="12" type="line"/>
+      <point x="148" y="75" type="line"/>
     </contour>
     <contour>
-      <point x="215" y="700" type="line"/>
-      <point x="312" y="700" type="line"/>
-      <point x="253" y="280" type="line"/>
-      <point x="156" y="280" type="line"/>
-      <point x="197" y="567" type="line"/>
-      <point x="139" y="522" type="line"/>
-      <point x="88" y="600" type="line"/>
+      <point x="237" y="700" type="line"/>
+      <point x="339" y="700" type="line"/>
+      <point x="272" y="280" type="line"/>
+      <point x="170" y="280" type="line"/>
+      <point x="216" y="567" type="line"/>
+      <point x="155" y="522" type="line"/>
+      <point x="101" y="600" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -65,15 +65,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>156</integer>
+            <integer>170</integer>
             <key>width</key>
-            <integer>97</integer>
+            <integer>102</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>663</integer>
+            <integer>704</integer>
             <key>width</key>
-            <integer>97</integer>
+            <integer>102</integer>
           </dict>
         </array>
       </dict>

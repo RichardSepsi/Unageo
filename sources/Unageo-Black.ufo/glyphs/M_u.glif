@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Mu" format="2">
-  <advance width="827"/>
+  <advance width="833"/>
   <unicode hex="039C"/>
   <outline>
     <contour>
-      <point x="103.691" y="700" type="line"/>
-      <point x="292.834" y="700" type="line"/>
-      <point x="413.631" y="319.258" type="line"/>
-      <point x="534.428" y="700" type="line"/>
-      <point x="723.57" y="700" type="line"/>
-      <point x="817" y="0" type="line"/>
-      <point x="645.49" y="0" type="line"/>
-      <point x="599.652" y="343.434" type="line"/>
-      <point x="502.818" y="38.2207" type="line"/>
-      <point x="324.443" y="38.2207" type="line"/>
-      <point x="227.609" y="343.436" type="line"/>
-      <point x="181.77" y="0" type="line"/>
-      <point x="10.2617" y="0" type="line"/>
+      <point x="106.691" y="700" type="line"/>
+      <point x="295.834" y="700" type="line"/>
+      <point x="416.631" y="319.258" type="line"/>
+      <point x="537.428" y="700" type="line"/>
+      <point x="726.57" y="700" type="line"/>
+      <point x="820" y="0" type="line"/>
+      <point x="648.49" y="0" type="line"/>
+      <point x="602.652" y="343.434" type="line"/>
+      <point x="505.818" y="38.2207" type="line"/>
+      <point x="327.443" y="38.2207" type="line"/>
+      <point x="230.609" y="343.436" type="line"/>
+      <point x="184.77" y="0" type="line"/>
+      <point x="13.2617" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -48,13 +48,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>10</integer>
+            <integer>13</integer>
             <key>width</key>
             <integer>172</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>645</integer>
+            <integer>648</integer>
             <key>width</key>
             <integer>172</integer>
           </dict>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iacute" format="2">
-  <advance width="209"/>
+  <advance width="225"/>
   <unicode hex="00ED"/>
   <outline>
     <contour>
-      <point x="145" y="574" type="line"/>
-      <point x="267" y="700" type="line"/>
-      <point x="351" y="700" type="line"/>
-      <point x="217" y="574" type="line"/>
+      <point x="162" y="574" type="line"/>
+      <point x="291" y="700" type="line"/>
+      <point x="380" y="700" type="line"/>
+      <point x="238" y="574" type="line"/>
     </contour>
     <contour>
-      <point x="75" y="0" type="line"/>
-      <point x="145" y="500" type="line"/>
-      <point x="202" y="500" type="line"/>
-      <point x="132" y="0" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="161" y="500" type="line"/>
+      <point x="221" y="500" type="line"/>
+      <point x="142" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -45,15 +45,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>75</integer>
+            <integer>82</integer>
             <key>width</key>
-            <integer>57</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>145</integer>
+            <integer>161</integer>
             <key>width</key>
-            <integer>57</integer>
+            <integer>60</integer>
           </dict>
         </array>
       </dict>

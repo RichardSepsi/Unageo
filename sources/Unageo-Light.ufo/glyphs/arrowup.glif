@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="arrowup" format="2">
-  <advance width="649"/>
+  <advance width="655"/>
   <unicode hex="2191"/>
   <outline>
     <contour>
-      <point x="580" y="303" type="line"/>
-      <point x="537" y="261" type="line"/>
-      <point x="355" y="443" type="line"/>
-      <point x="355" y="38" type="line"/>
-      <point x="295" y="38" type="line"/>
-      <point x="295" y="444" type="line"/>
-      <point x="113" y="261" type="line"/>
-      <point x="70" y="303" type="line"/>
-      <point x="325" y="558" type="line"/>
+      <point x="583" y="303" type="line"/>
+      <point x="540" y="261" type="line"/>
+      <point x="358" y="443" type="line"/>
+      <point x="358" y="38" type="line"/>
+      <point x="298" y="38" type="line"/>
+      <point x="298" y="444" type="line"/>
+      <point x="116" y="261" type="line"/>
+      <point x="73" y="303" type="line"/>
+      <point x="328" y="558" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,7 +23,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>295</integer>
+            <integer>298</integer>
             <key>width</key>
             <integer>60</integer>
           </dict>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dagger" format="2">
-  <advance width="469"/>
+  <advance width="500"/>
   <unicode hex="2020"/>
   <outline>
     <contour>
-      <point x="61" y="348" type="line"/>
-      <point x="85" y="518" type="line"/>
-      <point x="227" y="518" type="line"/>
-      <point x="252" y="700" type="line"/>
-      <point x="414" y="700" type="line"/>
-      <point x="388" y="518" type="line"/>
-      <point x="530" y="518" type="line"/>
-      <point x="506" y="348" type="line"/>
-      <point x="364" y="348" type="line"/>
-      <point x="315" y="0" type="line"/>
-      <point x="154" y="0" type="line"/>
-      <point x="203" y="348" type="line"/>
+      <point x="71" y="348" type="line"/>
+      <point x="98" y="518" type="line"/>
+      <point x="247" y="518" type="line"/>
+      <point x="276" y="700" type="line"/>
+      <point x="446" y="700" type="line"/>
+      <point x="417" y="518" type="line"/>
+      <point x="566" y="518" type="line"/>
+      <point x="539" y="348" type="line"/>
+      <point x="390" y="348" type="line"/>
+      <point x="335" y="0" type="line"/>
+      <point x="165" y="0" type="line"/>
+      <point x="220" y="348" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -47,15 +47,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>154</integer>
+            <integer>165</integer>
             <key>width</key>
-            <integer>161</integer>
+            <integer>170</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>252</integer>
+            <integer>276</integer>
             <key>width</key>
-            <integer>162</integer>
+            <integer>170</integer>
           </dict>
         </array>
       </dict>

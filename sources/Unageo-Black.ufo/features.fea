@@ -85,7 +85,6 @@
 	\uni0186 \uni025B \uni0254 \uni1E62 \uni1E63 \dotbelowcomb \uni019D \uni0272 
 	\uni018E ];
 
-
 lookup kernHorizontalKerninginLatinlookup0 {
   lookupflag IgnoreMarks;
     pos \Aogonek \j 110;

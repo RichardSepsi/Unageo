@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plus" format="2">
-  <advance width="589"/>
+  <advance width="626"/>
   <unicode hex="002B"/>
   <outline>
     <contour>
-      <point x="288" y="523" type="line"/>
-      <point x="449" y="523" type="line"/>
-      <point x="430" y="384" type="line"/>
-      <point x="562" y="384" type="line"/>
-      <point x="538" y="214" type="line"/>
-      <point x="406" y="214" type="line"/>
-      <point x="386" y="73" type="line"/>
-      <point x="224" y="73" type="line"/>
-      <point x="244" y="214" type="line"/>
-      <point x="111" y="214" type="line"/>
-      <point x="135" y="384" type="line"/>
-      <point x="268" y="384" type="line"/>
+      <point x="311" y="523" type="line"/>
+      <point x="481" y="523" type="line"/>
+      <point x="459" y="384" type="line"/>
+      <point x="599" y="384" type="line"/>
+      <point x="572" y="214" type="line"/>
+      <point x="432" y="214" type="line"/>
+      <point x="410" y="73" type="line"/>
+      <point x="240" y="73" type="line"/>
+      <point x="262" y="214" type="line"/>
+      <point x="122" y="214" type="line"/>
+      <point x="149" y="384" type="line"/>
+      <point x="289" y="384" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Chi" format="2">
-  <advance width="542"/>
+  <advance width="548"/>
   <unicode hex="03A7"/>
   <outline>
     <contour>
-      <point x="461" y="700" type="line"/>
-      <point x="533" y="700" type="line"/>
-      <point x="308" y="350" type="line"/>
-      <point x="533" y="0" type="line"/>
-      <point x="461" y="0" type="line"/>
-      <point x="272" y="294" type="line"/>
-      <point x="82" y="0" type="line"/>
-      <point x="11" y="0" type="line"/>
-      <point x="236" y="350" type="line"/>
-      <point x="11" y="700" type="line"/>
-      <point x="82" y="700" type="line"/>
-      <point x="272" y="405" type="line"/>
+      <point x="464" y="700" type="line"/>
+      <point x="536" y="700" type="line"/>
+      <point x="311" y="350" type="line"/>
+      <point x="536" y="0" type="line"/>
+      <point x="464" y="0" type="line"/>
+      <point x="275" y="294" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="14" y="0" type="line"/>
+      <point x="239" y="350" type="line"/>
+      <point x="14" y="700" type="line"/>
+      <point x="85" y="700" type="line"/>
+      <point x="275" y="405" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>236</integer>
+            <integer>239</integer>
             <key>width</key>
             <integer>72</integer>
           </dict>

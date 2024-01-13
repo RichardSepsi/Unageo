@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zacute" format="2">
-  <advance width="448"/>
+  <advance width="454"/>
   <unicode hex="017A"/>
   <outline>
     <contour>
-      <point x="113" y="553.5" type="line"/>
-      <point x="219" y="700.5" type="line"/>
-      <point x="415" y="700.5" type="line"/>
-      <point x="289" y="553.5" type="line"/>
+      <point x="116" y="553.5" type="line"/>
+      <point x="222" y="700.5" type="line"/>
+      <point x="418" y="700.5" type="line"/>
+      <point x="292" y="553.5" type="line"/>
     </contour>
     <contour>
-      <point x="20" y="0" type="line"/>
-      <point x="20" y="170" type="line"/>
-      <point x="184.5" y="330" type="line"/>
-      <point x="20" y="330" type="line"/>
-      <point x="20" y="500" type="line"/>
-      <point x="428" y="500" type="line"/>
-      <point x="428" y="330" type="line"/>
-      <point x="263.5" y="170" type="line"/>
-      <point x="428" y="170" type="line"/>
-      <point x="428" y="0" type="line"/>
+      <point x="23" y="0" type="line"/>
+      <point x="23" y="170" type="line"/>
+      <point x="187.5" y="330" type="line"/>
+      <point x="23" y="330" type="line"/>
+      <point x="23" y="500" type="line"/>
+      <point x="431" y="500" type="line"/>
+      <point x="431" y="330" type="line"/>
+      <point x="266.5" y="170" type="line"/>
+      <point x="431" y="170" type="line"/>
+      <point x="431" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -51,7 +51,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>20</integer>
+            <integer>23</integer>
             <key>width</key>
             <integer>408</integer>
           </dict>

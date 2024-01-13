@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Upsilon" format="2">
-  <advance width="635"/>
+  <advance width="641"/>
   <unicode hex="03A5"/>
   <outline>
     <contour>
-      <point x="6" y="700" type="line"/>
-      <point x="205" y="700" type="line"/>
-      <point x="317.5" y="503.759" type="line"/>
-      <point x="430" y="700" type="line"/>
-      <point x="629" y="700" type="line"/>
-      <point x="402.492" y="308.268" type="line"/>
-      <point x="402.492" y="0" type="line"/>
-      <point x="232.5" y="0" type="line"/>
-      <point x="232.5" y="308.281" type="line"/>
+      <point x="9" y="700" type="line"/>
+      <point x="208" y="700" type="line"/>
+      <point x="320.5" y="503.759" type="line"/>
+      <point x="433" y="700" type="line"/>
+      <point x="632" y="700" type="line"/>
+      <point x="405.492" y="308.268" type="line"/>
+      <point x="405.492" y="0" type="line"/>
+      <point x="235.5" y="0" type="line"/>
+      <point x="235.5" y="308.281" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -38,7 +38,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>232</integer>
+            <integer>236</integer>
             <key>width</key>
             <integer>170</integer>
           </dict>

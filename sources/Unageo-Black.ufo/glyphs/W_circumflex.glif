@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Wcircumflex" format="2">
-  <advance width="960"/>
+  <advance width="966"/>
   <unicode hex="0174"/>
   <outline>
     <contour>
-      <point x="241.246" y="724" type="line"/>
-      <point x="371.554" y="870" type="line"/>
-      <point x="538.446" y="870" type="line"/>
-      <point x="668.754" y="724" type="line"/>
-      <point x="503.998" y="724" type="line"/>
-      <point x="455" y="776.01" type="line"/>
-      <point x="406.002" y="724" type="line"/>
+      <point x="244.246" y="724" type="line"/>
+      <point x="374.554" y="870" type="line"/>
+      <point x="541.446" y="870" type="line"/>
+      <point x="671.754" y="724" type="line"/>
+      <point x="506.998" y="724" type="line"/>
+      <point x="458" y="776.01" type="line"/>
+      <point x="409.002" y="724" type="line"/>
     </contour>
     <contour>
-      <point x="773" y="700" type="line"/>
-      <point x="953" y="700" type="line"/>
-      <point x="762" y="0" type="line"/>
-      <point x="583" y="0" type="line"/>
-      <point x="480.469" y="371.875" type="line"/>
-      <point x="379" y="0" type="line"/>
-      <point x="200" y="0" type="line"/>
-      <point x="7" y="700" type="line"/>
-      <point x="187" y="700" type="line"/>
-      <point x="289.031" y="328.011" type="line"/>
-      <point x="390" y="700" type="line"/>
-      <point x="570" y="700" type="line"/>
-      <point x="672.031" y="328.011" type="line"/>
+      <point x="776" y="700" type="line"/>
+      <point x="956" y="700" type="line"/>
+      <point x="765" y="0" type="line"/>
+      <point x="586" y="0" type="line"/>
+      <point x="483.469" y="371.875" type="line"/>
+      <point x="382" y="0" type="line"/>
+      <point x="203" y="0" type="line"/>
+      <point x="10" y="700" type="line"/>
+      <point x="190" y="700" type="line"/>
+      <point x="292.031" y="328.011" type="line"/>
+      <point x="393" y="700" type="line"/>
+      <point x="573" y="700" type="line"/>
+      <point x="675.031" y="328.011" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -57,13 +57,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>7</integer>
+            <integer>10</integer>
             <key>width</key>
             <integer>180</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>773</integer>
+            <integer>776</integer>
             <key>width</key>
             <integer>180</integer>
           </dict>
