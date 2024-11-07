@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni044B" format="2">
-  <advance width="635"/>
+  <advance width="645"/>
   <unicode hex="044B"/>
   <outline>
     <contour>
@@ -56,10 +56,10 @@
       <point x="223" y="388"/>
     </contour>
     <contour>
-      <point x="498" y="500" type="line"/>
-      <point x="558" y="500" type="line"/>
-      <point x="558" y="0" type="line"/>
-      <point x="498" y="0" type="line"/>
+      <point x="538" y="500" type="line"/>
+      <point x="598" y="500" type="line"/>
+      <point x="598" y="0" type="line"/>
+      <point x="538" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -109,7 +109,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>498</integer>
+            <integer>538</integer>
             <key>width</key>
             <integer>60</integer>
           </dict>

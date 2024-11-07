@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni045C" format="2">
-  <advance width="470"/>
+  <advance width="594"/>
   <unicode hex="045C"/>
   <outline>
     <contour>
-      <point x="78" y="0" type="line"/>
-      <point x="189" y="700" type="line"/>
-      <point x="249" y="700" type="line"/>
-      <point x="179" y="261" type="line"/>
-      <point x="447" y="500" type="line"/>
-      <point x="529" y="500" type="line"/>
-      <point x="309" y="303" type="line"/>
-      <point x="468" y="0" type="line"/>
-      <point x="395" y="0" type="line"/>
-      <point x="260" y="259" type="line"/>
-      <point x="166" y="175" type="line"/>
-      <point x="138" y="0" type="line"/>
+      <point x="48" y="0" type="line"/>
+      <point x="158.869" y="700" type="line"/>
+      <point x="328.869" y="700" type="line"/>
+      <point x="273.306" y="349.185" type="line"/>
+      <point x="432.192" y="500" type="line"/>
+      <point x="660.192" y="500" type="line"/>
+      <point x="422.651" y="274.938" type="line"/>
+      <point x="581" y="0" type="line"/>
+      <point x="370" y="0" type="line"/>
+      <point x="286.445" y="145.886" type="line"/>
+      <point x="233.102" y="95.3447" type="line"/>
+      <point x="218" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="193" y="744" type="line"/>
-      <point x="322" y="870" type="line"/>
-      <point x="411" y="870" type="line"/>
-      <point x="269" y="744" type="line"/>
+      <point x="176.343" y="753.5" type="line"/>
+      <point x="305.625" y="900.5" type="line"/>
+      <point x="501.625" y="900.5" type="line"/>
+      <point x="352.343" y="753.5" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -53,15 +53,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>78</integer>
+            <integer>159</integer>
             <key>width</key>
-            <integer>60</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>189</integer>
-            <key>width</key>
-            <integer>60</integer>
+            <integer>170</integer>
           </dict>
         </array>
       </dict>

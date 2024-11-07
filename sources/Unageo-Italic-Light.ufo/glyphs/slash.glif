@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slash" format="2">
-  <advance width="361"/>
+  <advance width="455"/>
   <unicode hex="002F"/>
   <outline>
     <contour>
-      <point x="406" y="747" type="line"/>
-      <point x="459" y="727" type="line"/>
-      <point x="62" y="-84" type="line"/>
-      <point x="8" y="-64" type="line"/>
+      <point x="393.864" y="747" type="line"/>
+      <point x="546.881" y="693.762" type="line"/>
+      <point x="165.34" y="-87.8613" type="line"/>
+      <point x="12.3252" y="-34.6211" type="line"/>
     </contour>
   </outline>
 </glyph>

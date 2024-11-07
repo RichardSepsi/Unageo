@@ -1,31 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="arrowup" format="2">
-  <advance width="655"/>
+  <advance width="736"/>
   <unicode hex="2191"/>
   <outline>
     <contour>
-      <point x="631" y="303" type="line"/>
-      <point x="581" y="261" type="line"/>
-      <point x="428" y="443" type="line"/>
-      <point x="364" y="38" type="line"/>
-      <point x="304" y="38" type="line"/>
-      <point x="368" y="444" type="line"/>
-      <point x="157" y="261" type="line"/>
-      <point x="121" y="303" type="line"/>
-      <point x="416" y="558" type="line"/>
+      <point x="711.947" y="298.299" type="line"/>
+      <point x="572.698" y="178.092" type="line"/>
+      <point x="495.697" y="269.582" type="line"/>
+      <point x="452.842" y="-1" type="line"/>
+      <point x="282.842" y="-1" type="line"/>
+      <point x="325.851" y="270.547" type="line"/>
+      <point x="220.031" y="180.092" type="line"/>
+      <point x="118.861" y="300.299" type="line"/>
+      <point x="462.238" y="595" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-1</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+        </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>304</integer>
+            <integer>283</integer>
             <key>width</key>
-            <integer>60</integer>
+            <integer>170</integer>
           </dict>
         </array>
       </dict>

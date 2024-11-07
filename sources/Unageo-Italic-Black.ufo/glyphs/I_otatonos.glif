@@ -4,15 +4,15 @@
   <unicode hex="038A"/>
   <outline>
     <contour>
-      <point x="-104" y="554" type="line"/>
-      <point x="-25" y="700" type="line"/>
-      <point x="161" y="700" type="line"/>
-      <point x="62" y="554" type="line"/>
+      <point x="-104.334" y="553.5" type="line"/>
+      <point x="-25.0518" y="700.5" type="line"/>
+      <point x="160.948" y="700.5" type="line"/>
+      <point x="61.666" y="553.5" type="line"/>
     </contour>
     <contour>
       <point x="63" y="0" type="line"/>
-      <point x="174" y="700" type="line"/>
-      <point x="344" y="700" type="line"/>
+      <point x="173.869" y="700" type="line"/>
+      <point x="343.869" y="700" type="line"/>
       <point x="233" y="0" type="line"/>
     </contour>
   </outline>
@@ -32,7 +32,7 @@
             <key>position</key>
             <integer>554</integer>
             <key>width</key>
-            <integer>146</integer>
+            <integer>147</integer>
           </dict>
         </array>
         <key>vhints</key>

@@ -4,30 +4,30 @@
   <unicode hex="038E"/>
   <outline>
     <contour>
-      <point x="-154" y="554" type="line"/>
-      <point x="-75" y="700" type="line"/>
-      <point x="111" y="700" type="line"/>
-      <point x="12" y="554" type="line"/>
+      <point x="-154.334" y="553.5" type="line"/>
+      <point x="-75.0518" y="700.5" type="line"/>
+      <point x="110.948" y="700.5" type="line"/>
+      <point x="11.666" y="553.5" type="line"/>
     </contour>
     <contour>
-      <point x="544" y="700" type="line"/>
-      <point x="743" y="700" type="line"/>
-      <point x="454" y="308" type="line"/>
-      <point x="284" y="308" type="line"/>
-      <point x="292" y="355" type="line"/>
+      <point x="543.869" y="700" type="line"/>
+      <point x="742.869" y="700" type="line"/>
+      <point x="454.317" y="308.268" type="line"/>
+      <point x="284.325" y="308.268" type="line"/>
+      <point x="291.804" y="355.488" type="line"/>
     </contour>
     <contour>
-      <point x="120" y="700" type="line"/>
-      <point x="319" y="700" type="line"/>
-      <point x="462" y="356" type="line"/>
-      <point x="454" y="308" type="line"/>
-      <point x="284" y="308" type="line"/>
+      <point x="119.869" y="700" type="line"/>
+      <point x="318.869" y="700" type="line"/>
+      <point x="461.798" y="355.502" type="line"/>
+      <point x="454.317" y="308.268" type="line"/>
+      <point x="284.333" y="308.268" type="line"/>
     </contour>
     <contour>
-      <point x="284" y="308" type="line"/>
-      <point x="454" y="308" type="line"/>
-      <point x="405" y="0" type="line"/>
-      <point x="236" y="0" type="line"/>
+      <point x="284.325" y="308.268" type="line"/>
+      <point x="454.317" y="308.268" type="line"/>
+      <point x="405.492" y="0" type="line"/>
+      <point x="235.5" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -46,7 +46,7 @@
             <key>position</key>
             <integer>554</integer>
             <key>width</key>
-            <integer>146</integer>
+            <integer>147</integer>
           </dict>
         </array>
         <key>vhints</key>
@@ -55,7 +55,7 @@
             <key>position</key>
             <integer>236</integer>
             <key>width</key>
-            <integer>169</integer>
+            <integer>170</integer>
           </dict>
           <dict>
             <key>position</key>

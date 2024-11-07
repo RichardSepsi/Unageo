@@ -4,54 +4,54 @@
   <unicode hex="00A2"/>
   <outline>
     <contour>
-      <point x="421" y="609" type="line"/>
-      <point x="475" y="601"/>
-      <point x="520" y="576"/>
-      <point x="555" y="535" type="curve"/>
-      <point x="416" y="415" type="line"/>
-      <point x="410" y="423"/>
-      <point x="401" y="429"/>
-      <point x="393" y="433" type="curve"/>
-      <point x="367" y="267" type="line"/>
-      <point x="377" y="271"/>
-      <point x="386" y="277"/>
-      <point x="395" y="285" type="curve"/>
-      <point x="496" y="165" type="line"/>
-      <point x="448" y="124"/>
-      <point x="396" y="99"/>
-      <point x="339" y="91" type="curve"/>
-      <point x="325" y="0" type="line"/>
-      <point x="225" y="0" type="line"/>
-      <point x="240" y="94" type="line"/>
-      <point x="195" y="105"/>
-      <point x="157" y="129"/>
-      <point x="126" y="165" type="curve" smooth="yes"/>
-      <point x="83" y="216"/>
-      <point x="67" y="278"/>
-      <point x="78" y="350" type="curve" smooth="yes"/>
-      <point x="89" y="422"/>
-      <point x="126" y="484"/>
-      <point x="185" y="535" type="curve" smooth="yes"/>
-      <point x="227" y="571"/>
-      <point x="272" y="595"/>
-      <point x="321" y="606" type="curve"/>
-      <point x="336" y="700" type="line"/>
-      <point x="436" y="700" type="line"/>
+      <point x="421.352" y="609.264" type="line"/>
+      <point x="475.55" y="601.427"/>
+      <point x="520.112" y="576.76"/>
+      <point x="555.039" y="535.262" type="curve"/>
+      <point x="415.793" y="415.055" type="line"/>
+      <point x="409.3" y="422.769"/>
+      <point x="401.858" y="428.826"/>
+      <point x="393.47" y="433.228" type="curve"/>
+      <point x="367.106" y="266.772" type="line"/>
+      <point x="376.891" y="271.174"/>
+      <point x="386.25" y="277.231"/>
+      <point x="395.186" y="284.945" type="curve"/>
+      <point x="496.354" y="164.738" type="line"/>
+      <point x="448.283" y="123.24"/>
+      <point x="395.906" y="98.5732"/>
+      <point x="339.225" y="90.7363" type="curve"/>
+      <point x="324.854" y="0" type="line"/>
+      <point x="224.854" y="0" type="line"/>
+      <point x="239.81" y="94.4258" type="line"/>
+      <point x="194.42" y="104.946"/>
+      <point x="156.426" y="128.384"/>
+      <point x="125.829" y="164.738" type="curve" smooth="yes"/>
+      <point x="82.7734" y="215.896"/>
+      <point x="66.9756" y="277.65"/>
+      <point x="78.4346" y="350" type="curve" smooth="yes"/>
+      <point x="89.8936" y="422.349"/>
+      <point x="125.253" y="484.103"/>
+      <point x="184.515" y="535.262" type="curve" smooth="yes"/>
+      <point x="226.627" y="571.616"/>
+      <point x="272.045" y="595.054"/>
+      <point x="320.767" y="605.574" type="curve"/>
+      <point x="335.723" y="700" type="line"/>
+      <point x="435.723" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="291" y="420" type="line"/>
-      <point x="289" y="419"/>
-      <point x="288" y="417"/>
-      <point x="286" y="415" type="curve" smooth="yes"/>
-      <point x="265" y="397"/>
-      <point x="252" y="375"/>
-      <point x="248" y="350" type="curve" smooth="yes"/>
-      <point x="244" y="325"/>
-      <point x="250" y="303"/>
-      <point x="265" y="285" type="curve" smooth="yes"/>
-      <point x="266" y="283"/>
-      <point x="268" y="281"/>
-      <point x="269" y="280" type="curve"/>
+      <point x="291.32" y="419.656" type="line"/>
+      <point x="289.424" y="418.194"/>
+      <point x="287.545" y="416.66"/>
+      <point x="285.685" y="415.054" type="curve" smooth="yes"/>
+      <point x="264.875" y="397.09"/>
+      <point x="252.458" y="375.405"/>
+      <point x="248.435" y="350" type="curve" smooth="yes"/>
+      <point x="244.411" y="324.595"/>
+      <point x="249.959" y="302.91"/>
+      <point x="265.077" y="284.946" type="curve" smooth="yes"/>
+      <point x="266.43" y="283.34"/>
+      <point x="267.822" y="281.806"/>
+      <point x="269.256" y="280.344" type="curve"/>
     </contour>
   </outline>
   <lib>

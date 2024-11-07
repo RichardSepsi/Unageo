@@ -1,8 +1,8 @@
 fontmake -m Unageo.designspace -o variable --output-path Unageo[wght,ital].ttf --keep-overlaps
 gftools fix-nonhinting Unageo[wght,ital].ttf Unageo[wght,ital].ttf
 gftools update-version --old_version 2.000 --new_version 2.100 Unageo[wght,ital].ttf
-rm Unageo[wght,ital].ttf
-mv Unageo[wght,ital].ttf.fix Unageo[wght,ital].ttf
+#rm Unageo[wght,ital].ttf
+#mv Unageo[wght,ital].ttf.fix Unageo[wght,ital].ttf
 fonttools varLib.instancer ./Unageo[wght,ital].ttf wght=300:900 ital=0
 rm Unageo[wght,ital]-backup-fonttools-prep-gasp.ttf
 mv Unageo[wght,ital]-instance.ttf Unageo[wght].ttf

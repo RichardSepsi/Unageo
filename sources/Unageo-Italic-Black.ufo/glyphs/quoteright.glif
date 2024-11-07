@@ -4,14 +4,14 @@
   <unicode hex="2019"/>
   <outline>
     <contour>
-      <point x="188" y="700" type="curve"/>
-      <point x="368" y="700" type="line"/>
-      <point x="352" y="598"/>
-      <point x="303" y="512"/>
-      <point x="221" y="441" type="curve"/>
-      <point x="81" y="441" type="line"/>
-      <point x="138" y="523"/>
-      <point x="174" y="609"/>
+      <point x="187.869" y="700" type="curve"/>
+      <point x="367.869" y="700" type="line"/>
+      <point x="351.714" y="598"/>
+      <point x="302.707" y="511.667"/>
+      <point x="220.848" y="441" type="curve"/>
+      <point x="80.8477" y="441" type="line"/>
+      <point x="137.79" y="522.714"/>
+      <point x="173.464" y="609.048"/>
     </contour>
   </outline>
   <lib>

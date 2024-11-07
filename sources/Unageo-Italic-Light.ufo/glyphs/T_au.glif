@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tau" format="2">
-  <advance width="545"/>
+  <advance width="621"/>
   <unicode hex="03A4"/>
   <outline>
     <contour>
-      <point x="124" y="700" type="line"/>
-      <point x="644" y="700" type="line"/>
-      <point x="634" y="640" type="line"/>
-      <point x="404" y="640" type="line"/>
-      <point x="303" y="0" type="line"/>
-      <point x="243" y="0" type="line"/>
-      <point x="344" y="640" type="line"/>
-      <point x="114" y="640" type="line"/>
+      <point x="130.869" y="700" type="line"/>
+      <point x="711.869" y="700" type="line"/>
+      <point x="684.943" y="530" type="line"/>
+      <point x="479.443" y="530" type="line"/>
+      <point x="395.5" y="0" type="line"/>
+      <point x="225.5" y="0" type="line"/>
+      <point x="309.443" y="530" type="line"/>
+      <point x="103.943" y="530" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,18 +28,18 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>640</integer>
+            <integer>530</integer>
             <key>width</key>
-            <integer>60</integer>
+            <integer>170</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>243</integer>
+            <integer>226</integer>
             <key>width</key>
-            <integer>60</integer>
+            <integer>170</integer>
           </dict>
         </array>
       </dict>

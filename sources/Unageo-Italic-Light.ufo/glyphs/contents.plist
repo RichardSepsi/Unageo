@@ -12,6 +12,8 @@
     <string>D_.glif</string>
     <key>E</key>
     <string>E_.glif</string>
+    <key>F</key>
+    <string>F_.glif</string>
     <key>G</key>
     <string>G_.glif</string>
     <key>H</key>
@@ -52,8 +54,6 @@
     <string>Y_.glif</string>
     <key>Z</key>
     <string>Z_.glif</string>
-    <key>F</key>
-    <string>F_.glif</string>
     <key>a</key>
     <string>a.glif</string>
     <key>b</key>
@@ -636,12 +636,6 @@
     <string>uni018F_.glif</string>
     <key>florin</key>
     <string>florin.glif</string>
-    <key>uni01CD</key>
-    <string>uni01C_D_.glif</string>
-    <key>uni01CE</key>
-    <string>uni01C_E_.glif</string>
-    <key>uni01DD</key>
-    <string>uni01D_D_.glif</string>
     <key>uni0218</key>
     <string>uni0218.glif</string>
     <key>uni0219</key>
@@ -654,6 +648,12 @@
     <string>uni0237.glif</string>
     <key>uni0259</key>
     <string>uni0259.glif</string>
+    <key>uni01CD</key>
+    <string>uni01C_D_.glif</string>
+    <key>uni01CE</key>
+    <string>uni01C_E_.glif</string>
+    <key>uni01DD</key>
+    <string>uni01D_D_.glif</string>
     <key>circumflex</key>
     <string>circumflex.glif</string>
     <key>caron</key>
@@ -1254,24 +1254,12 @@
     <string>uni2215.glif</string>
     <key>integral</key>
     <string>integral.glif</string>
-    <key>notequal</key>
-    <string>notequal.glif</string>
-    <key>lessequal</key>
-    <string>lessequal.glif</string>
-    <key>greaterequal</key>
-    <string>greaterequal.glif</string>
     <key>space</key>
     <string>space.glif</string>
     <key>uni000D</key>
     <string>uni000D_.glif</string>
     <key>uni00A0</key>
     <string>uni00A_0.glif</string>
-    <key>uni1EB4</key>
-    <string>uni1E_B_4.glif</string>
-    <key>uni1EB6</key>
-    <string>uni1E_B_6.glif</string>
-    <key>uni1EB7</key>
-    <string>uni1E_B_7.glif</string>
     <key>Ohorn</key>
     <string>O_horn.glif</string>
     <key>ohorn</key>
@@ -1280,10 +1268,10 @@
     <string>U_horn.glif</string>
     <key>uhorn</key>
     <string>uhorn.glif</string>
-    <key>uni1EA0</key>
-    <string>uni1E_A_0.glif</string>
-    <key>uni1EA1</key>
-    <string>uni1E_A_1.glif</string>
+    <key>uni1EB6</key>
+    <string>uni1E_B_6.glif</string>
+    <key>uni1EB7</key>
+    <string>uni1E_B_7.glif</string>
     <key>uni1EA2</key>
     <string>uni1E_A_2.glif</string>
     <key>uni1EA3</key>
@@ -1320,8 +1308,14 @@
     <string>uni1E_B_2.glif</string>
     <key>uni1EB3</key>
     <string>uni1E_B_3.glif</string>
+    <key>uni1EB4</key>
+    <string>uni1E_B_4.glif</string>
     <key>uni1EB5</key>
     <string>uni1E_B_5.glif</string>
+    <key>uni1EA0</key>
+    <string>uni1E_A_0.glif</string>
+    <key>uni1EA1</key>
+    <string>uni1E_A_1.glif</string>
     <key>uni1EB8</key>
     <string>uni1E_B_8.glif</string>
     <key>uni1EB9</key>
@@ -1358,10 +1352,10 @@
     <string>uni1E_C_8.glif</string>
     <key>uni1ECA</key>
     <string>uni1E_C_A_.glif</string>
-    <key>uni1EC9</key>
-    <string>uni1E_C_9.glif</string>
     <key>uni1ECB</key>
     <string>uni1E_C_B_.glif</string>
+    <key>uni1EC9</key>
+    <string>uni1E_C_9.glif</string>
     <key>uni1ECC</key>
     <string>uni1E_C_C_.glif</string>
     <key>uni1ECD</key>
@@ -1480,5 +1474,21 @@
     <string>uni0272.glif</string>
     <key>uni018E</key>
     <string>uni018E_.glif</string>
+    <key>uni0436.ss01</key>
+    <string>uni0436.ss01.glif</string>
+    <key>uni0432.ss01</key>
+    <string>uni0432.ss01.glif</string>
+    <key>uni043A.ss01</key>
+    <string>uni043A_.ss01.glif</string>
+    <key>uni044E.ss01</key>
+    <string>uni044E_.ss01.glif</string>
+    <key>uni0437.ss01</key>
+    <string>uni0437.ss01.glif</string>
+    <key>uni0434.ss02</key>
+    <string>uni0434.ss02.glif</string>
+    <key>uni04C2.ss01</key>
+    <string>uni04C_2.ss01.glif</string>
+    <key>uni0497.ss01</key>
+    <string>uni0497.ss01.glif</string>
   </dict>
 </plist>

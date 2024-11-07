@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04CF" format="2">
-  <advance width="265"/>
+  <advance width="296"/>
   <unicode hex="04CF"/>
   <outline>
     <contour>
-      <point x="103" y="0" type="line"/>
-      <point x="214" y="700" type="line"/>
-      <point x="274" y="700" type="line"/>
-      <point x="163" y="0" type="line"/>
+      <point x="63" y="0" type="line"/>
+      <point x="173.869" y="700" type="line"/>
+      <point x="343.869" y="700" type="line"/>
+      <point x="233" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,15 +33,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>103</integer>
+            <integer>63</integer>
             <key>width</key>
-            <integer>60</integer>
+            <integer>170</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>214</integer>
+            <integer>174</integer>
             <key>width</key>
-            <integer>60</integer>
+            <integer>170</integer>
           </dict>
         </array>
       </dict>

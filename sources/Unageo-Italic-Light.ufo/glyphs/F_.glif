@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="F" format="2">
-  <advance width="544"/>
+  <advance width="570"/>
   <unicode hex="0046"/>
   <outline>
     <contour>
-      <point x="103" y="0" type="line"/>
-      <point x="214" y="700" type="line"/>
-      <point x="617" y="700" type="line"/>
-      <point x="607" y="640" type="line"/>
-      <point x="264" y="640" type="line"/>
-      <point x="223" y="378" type="line"/>
-      <point x="507" y="378" type="line"/>
-      <point x="497" y="318" type="line"/>
-      <point x="213" y="318" type="line"/>
-      <point x="163" y="0" type="line"/>
+      <point x="63" y="0" type="line"/>
+      <point x="173.869" y="700" type="line"/>
+      <point x="652.869" y="700" type="line"/>
+      <point x="625.943" y="530" type="line"/>
+      <point x="316.943" y="530" type="line"/>
+      <point x="300.788" y="428" type="line"/>
+      <point x="540.788" y="428" type="line"/>
+      <point x="513.863" y="258" type="line"/>
+      <point x="273.863" y="258" type="line"/>
+      <point x="233" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,24 +30,24 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>318</integer>
+            <integer>258</integer>
             <key>width</key>
-            <integer>60</integer>
+            <integer>170</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>640</integer>
+            <integer>530</integer>
             <key>width</key>
-            <integer>60</integer>
+            <integer>170</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>103</integer>
+            <integer>63</integer>
             <key>width</key>
-            <integer>60</integer>
+            <integer>170</integer>
           </dict>
         </array>
       </dict>

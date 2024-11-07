@@ -11,7 +11,7 @@
     <key>versionMajor</key>
     <integer>2</integer>
     <key>versionMinor</key>
-    <integer>0</integer>
+    <integer>2</integer>
     <key>copyright</key>
     <string>Copyright 2023 The Unageo Project Authors (https://github.com/RichardSepsi/Unageo)</string>
     <key>unitsPerEm</key>
@@ -45,15 +45,11 @@
     <key>openTypeNameLicenseURL</key>
     <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNameVersion</key>
-    <string>Version 2.000</string>
+    <string>Version 2.002</string>
     <key>openTypeNamePreferredFamilyName</key>
     <string>Unageo</string>
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Variable</string>
-    <key>openTypeOS2Selection</key>
-    <array>
-      <integer>7</integer>
-    </array>
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>openTypeOS2WeightClass</key>
@@ -83,6 +79,10 @@
     <string>Unageo Variable</string>
     <key>postscriptWeightName</key>
     <string>Variable</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
     <key>postscriptUnderlinePosition</key>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brokenbar" format="2">
-  <advance width="265"/>
+  <advance width="376"/>
   <unicode hex="00A6"/>
   <outline>
     <contour>
-      <point x="68" y="-220" type="line"/>
-      <point x="138" y="220" type="line"/>
-      <point x="198" y="220" type="line"/>
-      <point x="128" y="-220" type="line"/>
+      <point x="68.1553" y="-220" type="line"/>
+      <point x="137.845" y="220" type="line"/>
+      <point x="307.845" y="220" type="line"/>
+      <point x="238.155" y="-220" type="line"/>
     </contour>
     <contour>
-      <point x="158" y="350" type="line"/>
-      <point x="228" y="790" type="line"/>
-      <point x="288" y="790" type="line"/>
-      <point x="218" y="350" type="line"/>
+      <point x="158.435" y="350" type="line"/>
+      <point x="228.124" y="790" type="line"/>
+      <point x="398.124" y="790" type="line"/>
+      <point x="328.435" y="350" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,25 +26,25 @@
             <key>position</key>
             <integer>68</integer>
             <key>width</key>
-            <integer>60</integer>
+            <integer>170</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>138</integer>
             <key>width</key>
-            <integer>60</integer>
+            <integer>170</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>158</integer>
             <key>width</key>
-            <integer>60</integer>
+            <integer>170</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>228</integer>
             <key>width</key>
-            <integer>60</integer>
+            <integer>170</integer>
           </dict>
         </array>
       </dict>

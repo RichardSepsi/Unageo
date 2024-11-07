@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0428" format="2">
-  <advance width="915"/>
+  <advance width="981"/>
   <unicode hex="0428"/>
   <outline>
     <contour>
-      <point x="194" y="700" type="line"/>
-      <point x="254" y="700" type="line"/>
-      <point x="153" y="60" type="line"/>
-      <point x="438" y="60" type="line"/>
-      <point x="539" y="700" type="line"/>
-      <point x="599" y="700" type="line"/>
-      <point x="498" y="60" type="line"/>
-      <point x="783" y="60" type="line"/>
-      <point x="884" y="700" type="line"/>
-      <point x="944" y="700" type="line"/>
-      <point x="833" y="0" type="line"/>
-      <point x="83" y="0" type="line"/>
+      <point x="173.869" y="700" type="line"/>
+      <point x="343.869" y="700" type="line"/>
+      <point x="259.926" y="170" type="line"/>
+      <point x="432.426" y="170" type="line"/>
+      <point x="516.369" y="700" type="line"/>
+      <point x="686.369" y="700" type="line"/>
+      <point x="602.426" y="170" type="line"/>
+      <point x="774.926" y="170" type="line"/>
+      <point x="858.869" y="700" type="line"/>
+      <point x="1028.87" y="700" type="line"/>
+      <point x="918" y="0" type="line"/>
+      <point x="63" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,7 +28,7 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>60</integer>
+            <integer>170</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -41,21 +41,21 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>194</integer>
+            <integer>174</integer>
             <key>width</key>
-            <integer>60</integer>
+            <integer>170</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>539</integer>
+            <integer>516</integer>
             <key>width</key>
-            <integer>60</integer>
+            <integer>170</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>884</integer>
+            <integer>859</integer>
             <key>width</key>
-            <integer>60</integer>
+            <integer>170</integer>
           </dict>
         </array>
       </dict>

@@ -1,7 +1,68 @@
+languagesystem DFLT dflt;
+languagesystem cyrl dflt;
+languagesystem grek dflt;
+languagesystem latn dflt;
 
+
+# GSUB 
+
+
+lookup ss02StyleSet2lookup1 {
+  lookupflag 0;
+    sub \uni0434 by \uni0434.ss02 ;
+} ss02StyleSet2lookup1;
+
+lookup ss01StyleSet1lookup1 {
+  lookupflag 0;
+    sub \uni0432 by \uni0432.ss01 ;
+    sub \uni0436 by \uni0436.ss01 ;
+    sub \uni0437 by \uni0437.ss01 ;
+    sub \uni043A by \uni043A.ss01 ;
+    sub \uni044E by \uni044E.ss01 ;
+    sub \uni0497 by \uni0497.ss01 ;
+    sub \uni04C2 by \uni04C2.ss01 ;
+} ss01StyleSet1lookup1;
+
+feature ss02 {
+
+ script DFLT;
+     language dflt ;
+      lookup ss02StyleSet2lookup1;
+
+ script cyrl;
+     language dflt ;
+      lookup ss02StyleSet2lookup1;
+
+ script grek;
+     language dflt ;
+      lookup ss02StyleSet2lookup1;
+
+ script latn;
+     language dflt ;
+      lookup ss02StyleSet2lookup1;
+} ss02;
+
+feature ss01 {
+
+ script DFLT;
+     language dflt ;
+      lookup ss01StyleSet1lookup1;
+
+ script cyrl;
+     language dflt ;
+      lookup ss01StyleSet1lookup1;
+
+ script grek;
+     language dflt ;
+      lookup ss01StyleSet1lookup1;
+
+ script latn;
+     language dflt ;
+      lookup ss01StyleSet1lookup1;
+} ss01;
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
-@GDEF_Simple = [\A \B \C \D \E \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z \F \a \b \c \d 
+@GDEF_Simple = [\A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z \a \b \c \d 
 	\e \f \g \h \i \j \k \l \m \n \o \p \q \r \s \t \u \v \w \x \y \z \bracketleft \backslash 
 	\bracketright \asciicircum \underscore \grave \zero \one \two \three \four \five 
 	\six \seven \eight \nine \exclam \quotedbl \numbersign \dollar \percent 
@@ -34,8 +95,8 @@
 	\tcaron \Tbar \tbar \Utilde \utilde \Umacron \umacron \Ubreve \ubreve \Uring 
 	\uring \Uhungarumlaut \uhungarumlaut \Uogonek \uogonek \Wcircumflex 
 	\wcircumflex \Ycircumflex \ycircumflex \Ydieresis \Zacute \zacute \Zdotaccent 
-	\zdotaccent \Zcaron \zcaron \longs \uni018F \florin \uni01CD \uni01CE \uni01DD 
-	\uni0218 \uni0219 \uni021A \uni021B \uni0237 \uni0259 \circumflex \caron \breve 
+	\zdotaccent \Zcaron \zcaron \longs \uni018F \florin \uni0218 \uni0219 \uni021A 
+	\uni021B \uni0237 \uni0259 \uni01CD \uni01CE \uni01DD \circumflex \caron \breve 
 	\dotaccent \ring \ogonek \tilde \hungarumlaut \gravecomb \acutecomb \uni0302 
 	\tildecomb \uni0304 \uni0306 \uni0307 \uni0308 \uni030A \uni030B \uni030C 
 	\uni0312 \uni0326 \uni0327 \uni0328 \tonos \dieresistonos \Alphatonos 
@@ -70,20 +131,21 @@
 	\uni20B4 \uni20BD \uni20BF \uni2116 \uni2117 \trademark \onethird \twothirds 
 	\oneeighth \threeeighths \fiveeighths \seveneighths \arrowleft \arrowup 
 	\arrowright \arrowdown \arrowboth \arrowupdn \uni2196 \uni2197 \uni2198 
-	\uni2199 \universal \existential \emptyset \minus \uni2215 \integral \notequal 
-	\lessequal \greaterequal \space \uni000D \uni00A0 \uni1EB4 \uni1EB6 \uni1EB7 
-	\Ohorn \ohorn \Uhorn \uhorn \uni1EA0 \uni1EA1 \uni1EA2 \uni1EA3 \uni1EA4 \uni1EA5 
-	\uni1EA6 \uni1EA7 \uni1EA8 \uni1EA9 \uni1EAA \uni1EAB \uni1EAC \uni1EAD \uni1EAE 
-	\uni1EAF \uni1EB0 \uni1EB1 \uni1EB2 \uni1EB3 \uni1EB5 \uni1EB8 \uni1EB9 \uni1EBA 
-	\uni1EBB \uni1EBC \uni1EBD \uni1EBE \uni1EBF \uni1EC0 \uni1EC1 \uni1EC2 \uni1EC3 
-	\uni1EC4 \uni1EC5 \uni1EC6 \uni1EC7 \uni1EC8 \uni1ECA \uni1EC9 \uni1ECB \uni1ECC 
-	\uni1ECD \uni1ECE \uni1ECF \uni1ED0 \uni1ED1 \uni1ED2 \uni1ED3 \uni1ED4 \uni1ED5 
-	\uni1ED6 \uni1ED7 \uni1ED8 \uni1ED9 \uni1EDA \uni1EDB \uni1EDC \uni1EDD \uni1EDE 
-	\uni1EDF \uni1EE0 \uni1EE1 \uni1EE2 \uni1EE3 \uni1EE4 \uni1EE5 \uni1EE6 \uni1EE7 
-	\uni1EE8 \uni1EE9 \uni1EEA \uni1EEB \uni1EEC \uni1EED \uni1EEE \uni1EEF \uni1EF0 
-	\uni1EF1 \uni1EF4 \uni1EF5 \uni1EF6 \uni1EF7 \uni1EF8 \uni1EF9 \uni02BC \uni01EA 
-	\uni01EB \uni1E56 \uni1E57 \uni02BB \uni0186 \uni025B \uni0254 \uni1E62 \uni1E63 
-	\dotbelowcomb \uni019D \uni0272 \uni018E ];
+	\uni2199 \universal \existential \emptyset \minus \uni2215 \integral \space 
+	\uni000D \uni00A0 \Ohorn \ohorn \Uhorn \uhorn \uni1EB6 \uni1EB7 \uni1EA2 \uni1EA3 
+	\uni1EA4 \uni1EA5 \uni1EA6 \uni1EA7 \uni1EA8 \uni1EA9 \uni1EAA \uni1EAB \uni1EAC 
+	\uni1EAD \uni1EAE \uni1EAF \uni1EB0 \uni1EB1 \uni1EB2 \uni1EB3 \uni1EB4 \uni1EB5 
+	\uni1EA0 \uni1EA1 \uni1EB8 \uni1EB9 \uni1EBA \uni1EBB \uni1EBC \uni1EBD \uni1EBE 
+	\uni1EBF \uni1EC0 \uni1EC1 \uni1EC2 \uni1EC3 \uni1EC4 \uni1EC5 \uni1EC6 \uni1EC7 
+	\uni1EC8 \uni1ECA \uni1ECB \uni1EC9 \uni1ECC \uni1ECD \uni1ECE \uni1ECF \uni1ED0 
+	\uni1ED1 \uni1ED2 \uni1ED3 \uni1ED4 \uni1ED5 \uni1ED6 \uni1ED7 \uni1ED8 \uni1ED9 
+	\uni1EDA \uni1EDB \uni1EDC \uni1EDD \uni1EDE \uni1EDF \uni1EE0 \uni1EE1 \uni1EE2 
+	\uni1EE3 \uni1EE4 \uni1EE5 \uni1EE6 \uni1EE7 \uni1EE8 \uni1EE9 \uni1EEA \uni1EEB 
+	\uni1EEC \uni1EED \uni1EEE \uni1EEF \uni1EF0 \uni1EF1 \uni1EF4 \uni1EF5 \uni1EF6 
+	\uni1EF7 \uni1EF8 \uni1EF9 \uni02BC \uni01EA \uni01EB \uni1E56 \uni1E57 \uni02BB 
+	\uni0186 \uni025B \uni0254 \uni1E62 \uni1E63 \dotbelowcomb \uni019D \uni0272 
+	\uni018E \uni0436.ss01 \uni0432.ss01 \uni043A.ss01 \uni044E.ss01 
+	\uni0437.ss01 \uni0434.ss02 \uni04C2.ss01 \uni0497.ss01 ];
 
 lookup kernHorizontalKerninginLatinlookup0 {
   lookupflag IgnoreMarks;
@@ -217,6 +279,8 @@ lookup kernHorizontalKerninginLatinlookup0 {
     pos \quotedblbase \Aacute 40;
     pos \quotedblbase \A 40;
 
+    pos \uni0415 \uni0432 -70;
+
 
   subtable;
     @kc39_first_0 = [\A \Agrave \Aacute \Acircumflex \Atilde \Adieresis \Aring \Amacron \Abreve \Aogonek \uni01CD \Alphatonos \Alpha \uni0394 \Lambda \uni041B \uni04D0 
@@ -247,7 +311,7 @@ lookup kernHorizontalKerninginLatinlookup0 {
     \uni01DD \uni0259 \alpha \alphatonos \sigma \omega \omegatonos \uni0454 \uni04D9 ];
     @kc39_second_4 = [\g \gcircumflex \gbreve \gdotaccent \uni0123 \uni0434 ];
     @kc39_second_5 = [\d \dcaron \dcroat ];
-    @kc39_second_6 = [\m \uni0442 \n \ntilde \nacute \uni0146 \ncaron \eng \uni0272 \uni043F \eta \etatonos ];
+    @kc39_second_6 = [\m \uni0442 \n \ntilde \nacute \uni0146 \ncaron \eng \uni0272 \uni043F \eta \etatonos \uni0432.ss01 ];
     @kc39_second_7 = [\j \uni0237 \uni0458 ];
     @kc39_second_8 = [\p \rho \uni0440 \uni1E57 ];
     @kc39_second_9 = [\r \racute \uni0157 \rcaron \uni0491 ];

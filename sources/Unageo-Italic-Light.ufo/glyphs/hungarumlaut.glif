@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hungarumlaut" format="2">
-  <advance width="373"/>
+  <advance width="530"/>
   <unicode hex="02DD"/>
   <outline>
     <contour>
-      <point x="274" y="574" type="line"/>
-      <point x="387" y="700" type="line"/>
-      <point x="476" y="700" type="line"/>
-      <point x="354" y="574" type="line"/>
+      <point x="334.745" y="554" type="line"/>
+      <point x="451.869" y="700" type="line"/>
+      <point x="621.869" y="700" type="line"/>
+      <point x="482.745" y="554" type="line"/>
     </contour>
     <contour>
-      <point x="110" y="574" type="line"/>
-      <point x="223" y="700" type="line"/>
-      <point x="312" y="700" type="line"/>
-      <point x="190" y="574" type="line"/>
+      <point x="110.745" y="554" type="line"/>
+      <point x="223.869" y="700" type="line"/>
+      <point x="393.869" y="700" type="line"/>
+      <point x="256.745" y="554" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -24,9 +24,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>574</integer>
+            <integer>554</integer>
             <key>width</key>
-            <integer>126</integer>
+            <integer>146</integer>
           </dict>
         </array>
       </dict>

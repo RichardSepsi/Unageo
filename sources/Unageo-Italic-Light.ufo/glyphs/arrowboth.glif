@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="arrowboth" format="2">
-  <advance width="921"/>
+  <advance width="1118"/>
   <unicode hex="2194"/>
   <outline>
     <contour>
-      <point x="696" y="553" type="line"/>
-      <point x="910" y="298" type="line"/>
-      <point x="615" y="43" type="line"/>
-      <point x="580" y="86" type="line"/>
-      <point x="792" y="269" type="line"/>
-      <point x="220" y="269" type="line"/>
-      <point x="374" y="86" type="line"/>
-      <point x="324" y="43" type="line"/>
-      <point x="110" y="298" type="line"/>
-      <point x="405" y="553" type="line"/>
-      <point x="441" y="510" type="line"/>
-      <point x="230" y="329" type="line"/>
-      <point x="800" y="329" type="line"/>
-      <point x="647" y="510" type="line"/>
+      <point x="835.332" y="593.701" type="line"/>
+      <point x="1083.04" y="297" type="line"/>
+      <point x="739.346" y="0.298828" type="line"/>
+      <point x="638.179" y="120.509" type="line"/>
+      <point x="744.159" y="212" type="line"/>
+      <point x="428.03" y="212" type="line"/>
+      <point x="503.995" y="120.508" type="line"/>
+      <point x="364.748" y="0.298828" type="line"/>
+      <point x="117.04" y="297" type="line"/>
+      <point x="460.734" y="593.701" type="line"/>
+      <point x="561.901" y="473.491" type="line"/>
+      <point x="455.921" y="382" type="line"/>
+      <point x="772.05" y="382" type="line"/>
+      <point x="696.086" y="473.492" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,9 +28,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>269</integer>
+            <integer>0</integer>
             <key>width</key>
-            <integer>60</integer>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>212</integer>
+            <key>width</key>
+            <integer>170</integer>
           </dict>
         </array>
       </dict>
