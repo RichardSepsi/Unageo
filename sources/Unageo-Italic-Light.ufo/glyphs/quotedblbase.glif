@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblbase" format="2">
-  <advance width="499"/>
+  <advance width="282"/>
   <unicode hex="201E"/>
   <outline>
     <contour>
-      <point x="92.124" y="146" type="curve"/>
-      <point x="272.124" y="146" type="line"/>
-      <point x="255.969" y="44"/>
-      <point x="206.962" y="-42.333"/>
-      <point x="125.103" y="-113" type="curve"/>
-      <point x="-14.8975" y="-113" type="line"/>
-      <point x="42.0449" y="-31.2861"/>
-      <point x="77.7188" y="55.0479"/>
+      <point x="91.6211" y="86" type="curve"/>
+      <point x="152.621" y="86" type="line"/>
+      <point x="140.426" y="9"/>
+      <point x="111.655" y="-59"/>
+      <point x="65.627" y="-116" type="curve"/>
+      <point x="4.62695" y="-116" type="line"/>
+      <point x="51.2891" y="-55"/>
+      <point x="79.9004" y="12"/>
     </contour>
     <contour>
-      <point x="331.124" y="146" type="curve"/>
-      <point x="511.124" y="146" type="line"/>
-      <point x="494.969" y="44"/>
-      <point x="445.962" y="-42.333"/>
-      <point x="364.103" y="-113" type="curve"/>
-      <point x="224.103" y="-113" type="line"/>
-      <point x="281.045" y="-31.2861"/>
-      <point x="316.719" y="55.0479"/>
+      <point x="222.621" y="86" type="curve"/>
+      <point x="283.621" y="86" type="line"/>
+      <point x="271.426" y="9"/>
+      <point x="242.655" y="-59"/>
+      <point x="196.627" y="-116" type="curve"/>
+      <point x="135.627" y="-116" type="line"/>
+      <point x="182.289" y="-55"/>
+      <point x="210.9" y="12"/>
     </contour>
   </outline>
   <lib>
@@ -32,9 +32,24 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-113</integer>
+            <integer>-116</integer>
             <key>width</key>
-            <integer>259</integer>
+            <integer>202</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>92</integer>
+            <key>width</key>
+            <integer>61</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>223</integer>
+            <key>width</key>
+            <integer>61</integer>
           </dict>
         </array>
       </dict>

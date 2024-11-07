@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="endash" format="2">
-  <advance width="556"/>
+  <advance width="555"/>
   <unicode hex="2013"/>
   <outline>
     <contour>
-      <point x="38.3193" y="223" type="line"/>
-      <point x="62.0771" y="373" type="line"/>
-      <point x="612.077" y="373" type="line"/>
-      <point x="588.319" y="223" type="line"/>
+      <point x="45.4473" y="268" type="line"/>
+      <point x="54.9502" y="328" type="line"/>
+      <point x="604.95" y="328" type="line"/>
+      <point x="595.447" y="268" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -18,9 +18,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>223</integer>
+            <integer>268</integer>
             <key>width</key>
-            <integer>150</integer>
+            <integer>60</integer>
           </dict>
         </array>
       </dict>

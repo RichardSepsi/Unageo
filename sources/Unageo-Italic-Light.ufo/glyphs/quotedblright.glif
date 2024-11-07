@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblright" format="2">
-  <advance width="499"/>
+  <advance width="302"/>
   <unicode hex="201D"/>
   <outline>
     <contour>
-      <point x="187.869" y="700" type="curve"/>
-      <point x="367.869" y="700" type="line"/>
-      <point x="351.714" y="598"/>
-      <point x="302.707" y="511.667"/>
-      <point x="220.848" y="441" type="curve"/>
-      <point x="80.8477" y="441" type="line"/>
-      <point x="137.79" y="522.714"/>
-      <point x="173.464" y="609.048"/>
+      <point x="188.869" y="700" type="curve"/>
+      <point x="249.869" y="700" type="line"/>
+      <point x="237.674" y="623"/>
+      <point x="208.903" y="555"/>
+      <point x="162.875" y="498" type="curve"/>
+      <point x="101.875" y="498" type="line"/>
+      <point x="148.537" y="559"/>
+      <point x="177.148" y="626"/>
     </contour>
     <contour>
-      <point x="426.869" y="700" type="curve"/>
-      <point x="606.869" y="700" type="line"/>
-      <point x="590.714" y="598"/>
-      <point x="541.707" y="511.667"/>
-      <point x="459.848" y="441" type="curve"/>
-      <point x="319.848" y="441" type="line"/>
-      <point x="376.79" y="522.714"/>
-      <point x="412.464" y="609.048"/>
+      <point x="319.869" y="700" type="curve"/>
+      <point x="380.869" y="700" type="line"/>
+      <point x="368.674" y="623"/>
+      <point x="339.903" y="555"/>
+      <point x="293.875" y="498" type="curve"/>
+      <point x="232.875" y="498" type="line"/>
+      <point x="279.537" y="559"/>
+      <point x="308.148" y="626"/>
     </contour>
   </outline>
   <lib>
@@ -32,9 +32,24 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>441</integer>
+            <integer>498</integer>
             <key>width</key>
-            <integer>259</integer>
+            <integer>202</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>189</integer>
+            <key>width</key>
+            <integer>61</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>320</integer>
+            <key>width</key>
+            <integer>61</integer>
           </dict>
         </array>
       </dict>

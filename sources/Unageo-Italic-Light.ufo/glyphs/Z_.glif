@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Z" format="2">
-  <advance width="611"/>
+  <advance width="608"/>
   <unicode hex="005A"/>
   <outline>
     <contour>
-      <point x="33" y="0" type="line"/>
-      <point x="59.9258" y="170" type="line"/>
-      <point x="433.943" y="530" type="line"/>
-      <point x="119.943" y="530" type="line"/>
-      <point x="146.869" y="700" type="line"/>
-      <point x="688.869" y="700" type="line"/>
-      <point x="661.943" y="530" type="line"/>
-      <point x="287.926" y="170" type="line"/>
-      <point x="601.926" y="170" type="line"/>
-      <point x="575" y="0" type="line"/>
+      <point x="53" y="0" type="line"/>
+      <point x="62.5029" y="60" type="line"/>
+      <point x="582.366" y="640" type="line"/>
+      <point x="157.366" y="640" type="line"/>
+      <point x="166.869" y="700" type="line"/>
+      <point x="666.869" y="700" type="line"/>
+      <point x="657.366" y="640" type="line"/>
+      <point x="137.503" y="60" type="line"/>
+      <point x="562.503" y="60" type="line"/>
+      <point x="553" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -26,13 +26,13 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>530</integer>
+            <integer>640</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
         </array>
       </dict>

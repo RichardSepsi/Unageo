@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2077" format="2">
-  <advance width="362"/>
+  <advance width="343"/>
   <unicode hex="2077"/>
   <outline>
     <contour>
-      <point x="136.152" y="698" type="line"/>
-      <point x="152.308" y="800" type="line"/>
-      <point x="463.108" y="800" type="line"/>
-      <point x="446.953" y="698" type="line"/>
-      <point x="248.301" y="380" type="line"/>
-      <point x="135.757" y="380" type="line"/>
-      <point x="334.408" y="698" type="line"/>
+      <point x="147.204" y="740" type="line"/>
+      <point x="156.708" y="800" type="line"/>
+      <point x="444.708" y="800" type="line"/>
+      <point x="435.204" y="740" type="line"/>
+      <point x="192.187" y="380" type="line"/>
+      <point x="125.187" y="380" type="line"/>
+      <point x="367.204" y="740" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,18 +21,18 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>698</integer>
+            <integer>740</integer>
             <key>width</key>
-            <integer>102</integer>
+            <integer>60</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>136</integer>
+            <integer>125</integer>
             <key>width</key>
-            <integer>327</integer>
+            <integer>320</integer>
           </dict>
         </array>
       </dict>

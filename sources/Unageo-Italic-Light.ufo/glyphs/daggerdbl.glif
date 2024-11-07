@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="daggerdbl" format="2">
-  <advance width="500"/>
+  <advance width="483"/>
   <unicode hex="2021"/>
   <outline>
     <contour>
-      <point x="78.2354" y="374" type="line"/>
-      <point x="105.161" y="544" type="line"/>
-      <point x="248.161" y="544" type="line"/>
-      <point x="272.869" y="700" type="line"/>
-      <point x="442.869" y="700" type="line"/>
-      <point x="418.161" y="544" type="line"/>
-      <point x="561.161" y="544" type="line"/>
-      <point x="534.235" y="374" type="line"/>
-      <point x="391.235" y="374" type="line"/>
-      <point x="351.956" y="126" type="line"/>
-      <point x="494.956" y="126" type="line"/>
-      <point x="468.031" y="-44" type="line"/>
-      <point x="325.031" y="-44" type="line"/>
-      <point x="300.323" y="-200" type="line"/>
-      <point x="130.323" y="-200" type="line"/>
-      <point x="155.031" y="-44" type="line"/>
-      <point x="12.0312" y="-44" type="line"/>
-      <point x="38.9561" y="126" type="line"/>
-      <point x="181.956" y="126" type="line"/>
-      <point x="221.235" y="374" type="line"/>
+      <point x="98.0059" y="442" type="line"/>
+      <point x="107.509" y="502" type="line"/>
+      <point x="291.509" y="502" type="line"/>
+      <point x="322.869" y="700" type="line"/>
+      <point x="382.869" y="700" type="line"/>
+      <point x="351.509" y="502" type="line"/>
+      <point x="535.509" y="502" type="line"/>
+      <point x="526.006" y="442" type="line"/>
+      <point x="342.006" y="442" type="line"/>
+      <point x="281.028" y="57" type="line"/>
+      <point x="465.028" y="57" type="line"/>
+      <point x="455.524" y="-3" type="line"/>
+      <point x="271.524" y="-3" type="line"/>
+      <point x="240.323" y="-200" type="line"/>
+      <point x="180.323" y="-200" type="line"/>
+      <point x="211.524" y="-3" type="line"/>
+      <point x="27.5244" y="-3" type="line"/>
+      <point x="37.0283" y="57" type="line"/>
+      <point x="221.028" y="57" type="line"/>
+      <point x="282.006" y="442" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -40,21 +40,36 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>-44</integer>
+            <integer>-3</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>374</integer>
+            <integer>442</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>680</integer>
             <key>width</key>
             <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>180</integer>
+            <key>width</key>
+            <integer>60</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>323</integer>
+            <key>width</key>
+            <integer>60</integer>
           </dict>
         </array>
       </dict>

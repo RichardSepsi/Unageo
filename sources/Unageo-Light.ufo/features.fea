@@ -281,6 +281,7 @@ lookup kernHorizontalKerninginLatinlookup0 {
     pos \quotedblbase \A 40;
 
     pos \uni0415 \uni0432 -70;
+    pos \uni0415 \uni0432.ss01 -10;
 
 
   subtable;

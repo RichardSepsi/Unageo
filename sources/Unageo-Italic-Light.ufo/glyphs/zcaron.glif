@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zcaron" format="2">
-  <advance width="454"/>
+  <advance width="483"/>
   <unicode hex="017E"/>
   <outline>
     <contour>
-      <point x="122.115" y="700" type="line"/>
-      <point x="284.871" y="700" type="line"/>
-      <point x="324.998" y="643.99" type="line"/>
-      <point x="382.867" y="700" type="line"/>
-      <point x="545.623" y="700" type="line"/>
-      <point x="401.991" y="554" type="line"/>
-      <point x="219.499" y="554" type="line"/>
+      <point x="192.869" y="700" type="line"/>
+      <point x="274.869" y="700" type="line"/>
+      <point x="341.515" y="622" type="line"/>
+      <point x="432.869" y="700" type="line"/>
+      <point x="514.869" y="700" type="line"/>
+      <point x="376.913" y="574" type="line"/>
+      <point x="290.913" y="574" type="line"/>
     </contour>
     <contour>
-      <point x="23" y="0" type="line"/>
-      <point x="49.9258" y="170" type="line"/>
-      <point x="239.767" y="330" type="line"/>
-      <point x="75.2666" y="330" type="line"/>
-      <point x="102.192" y="500" type="line"/>
+      <point x="53" y="0" type="line"/>
+      <point x="62.5029" y="60" type="line"/>
+      <point x="424.689" y="440" type="line"/>
+      <point x="122.689" y="440" type="line"/>
+      <point x="132.192" y="500" type="line"/>
       <point x="510.192" y="500" type="line"/>
-      <point x="483.267" y="330" type="line"/>
-      <point x="293.426" y="170" type="line"/>
-      <point x="457.926" y="170" type="line"/>
+      <point x="500.689" y="440" type="line"/>
+      <point x="138.503" y="60" type="line"/>
+      <point x="440.503" y="60" type="line"/>
       <point x="431" y="0" type="line"/>
     </contour>
   </outline>
@@ -35,19 +35,19 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>330</integer>
+            <integer>440</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>554</integer>
+            <integer>680</integer>
             <key>width</key>
-            <integer>146</integer>
+            <integer>20</integer>
           </dict>
         </array>
       </dict>

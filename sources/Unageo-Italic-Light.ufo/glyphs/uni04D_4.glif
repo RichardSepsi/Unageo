@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04D4" format="2">
-  <advance width="1039"/>
+  <advance width="1000"/>
   <unicode hex="04D4"/>
   <outline>
     <contour>
-      <point x="611.869" y="700" type="line"/>
-      <point x="1086.87" y="700" type="line"/>
-      <point x="1059.94" y="530" type="line"/>
-      <point x="754.943" y="530" type="line"/>
-      <point x="739.897" y="435" type="line"/>
-      <point x="974.897" y="435" type="line"/>
-      <point x="948.13" y="266" type="line"/>
-      <point x="713.13" y="266" type="line"/>
-      <point x="697.926" y="170" type="line"/>
-      <point x="1003.93" y="170" type="line"/>
-      <point x="977" y="0" type="line"/>
-      <point x="501" y="0" type="line"/>
-      <point x="516.68" y="99" type="line"/>
-      <point x="311.429" y="99" type="line"/>
-      <point x="228" y="0" type="line"/>
-      <point x="22" y="0" type="line"/>
+      <point x="613.869" y="700" type="line"/>
+      <point x="1016.87" y="700" type="line"/>
+      <point x="1007.37" y="640" type="line"/>
+      <point x="664.366" y="640" type="line"/>
+      <point x="624.929" y="391" type="line"/>
+      <point x="903.929" y="391" type="line"/>
+      <point x="894.425" y="331" type="line"/>
+      <point x="615.425" y="331" type="line"/>
+      <point x="572.503" y="60" type="line"/>
+      <point x="915.503" y="60" type="line"/>
+      <point x="906" y="0" type="line"/>
+      <point x="503" y="0" type="line"/>
+      <point x="535.469" y="205" type="line"/>
+      <point x="261.469" y="205" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="11" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="564.188" y="398.95" type="line"/>
-      <point x="451.269" y="265" type="line"/>
-      <point x="543.476" y="265" type="line"/>
+      <point x="597.397" y="596" type="line"/>
+      <point x="312.972" y="265" type="line"/>
+      <point x="544.972" y="265" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -37,19 +37,25 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>266</integer>
+            <integer>205</integer>
             <key>width</key>
-            <integer>169</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>530</integer>
+            <integer>331</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>640</integer>
+            <key>width</key>
+            <integer>60</integer>
           </dict>
         </array>
       </dict>

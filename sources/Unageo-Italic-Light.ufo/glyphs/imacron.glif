@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="imacron" format="2">
-  <advance width="296"/>
+  <advance width="225"/>
   <unicode hex="012B"/>
   <outline>
     <contour>
-      <point x="83.9531" y="549" type="line"/>
-      <point x="107.869" y="700" type="line"/>
-      <point x="407.869" y="700" type="line"/>
-      <point x="383.953" y="549" type="line"/>
+      <point x="79.8633" y="580" type="line"/>
+      <point x="88.8906" y="637" type="line"/>
+      <point x="338.891" y="637" type="line"/>
+      <point x="329.863" y="580" type="line"/>
     </contour>
     <contour>
-      <point x="63" y="0" type="line"/>
-      <point x="142.192" y="500" type="line"/>
-      <point x="312.192" y="500" type="line"/>
-      <point x="233" y="0" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="161.192" y="500" type="line"/>
+      <point x="221.192" y="500" type="line"/>
+      <point x="142" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -36,24 +36,24 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>549</integer>
+            <integer>580</integer>
             <key>width</key>
-            <integer>151</integer>
+            <integer>57</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>63</integer>
+            <integer>82</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>142</integer>
+            <integer>161</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
         </array>
       </dict>

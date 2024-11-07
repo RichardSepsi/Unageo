@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0492" format="2">
-  <advance width="582"/>
+  <advance width="493"/>
   <unicode hex="0492"/>
   <outline>
     <contour>
-      <point x="87" y="0" type="line"/>
-      <point x="197.869" y="700" type="line"/>
-      <point x="672.869" y="700" type="line"/>
-      <point x="645.943" y="530" type="line"/>
-      <point x="340.943" y="530" type="line"/>
-      <point x="257" y="0" type="line"/>
+      <point x="83" y="0" type="line"/>
+      <point x="193.869" y="700" type="line"/>
+      <point x="596.869" y="700" type="line"/>
+      <point x="587.366" y="640" type="line"/>
+      <point x="244.366" y="640" type="line"/>
+      <point x="143" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="49.7949" y="232" type="line"/>
-      <point x="76.7207" y="402" type="line"/>
-      <point x="460.721" y="402" type="line"/>
-      <point x="433.795" y="232" type="line"/>
+      <point x="61.376" y="337" type="line"/>
+      <point x="70.8789" y="397" type="line"/>
+      <point x="358.879" y="397" type="line"/>
+      <point x="349.376" y="337" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,24 +32,24 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>232</integer>
+            <integer>337</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>530</integer>
+            <integer>640</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>87</integer>
+            <integer>83</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
         </array>
       </dict>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflex" format="2">
-  <advance width="451"/>
+  <advance width="350"/>
   <unicode hex="02C6"/>
   <outline>
     <contour>
-      <point x="88.9912" y="554" type="line"/>
-      <point x="242.423" y="700" type="line"/>
-      <point x="409.315" y="700" type="line"/>
-      <point x="516.499" y="554" type="line"/>
-      <point x="351.743" y="554" type="line"/>
-      <point x="310.982" y="606.01" type="line"/>
-      <point x="253.747" y="554" type="line"/>
+      <point x="104.913" y="574" type="line"/>
+      <point x="244.869" y="700" type="line"/>
+      <point x="326.869" y="700" type="line"/>
+      <point x="426.913" y="574" type="line"/>
+      <point x="344.913" y="574" type="line"/>
+      <point x="278.583" y="654" type="line"/>
+      <point x="186.913" y="574" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -21,9 +21,18 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>554</integer>
+            <integer>574</integer>
             <key>width</key>
-            <integer>146</integer>
+            <integer>126</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>105</integer>
+            <key>width</key>
+            <integer>322</integer>
           </dict>
         </array>
       </dict>

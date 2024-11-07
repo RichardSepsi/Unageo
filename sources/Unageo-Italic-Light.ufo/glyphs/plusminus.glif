@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plusminus" format="2">
-  <advance width="646"/>
+  <advance width="625"/>
   <unicode hex="00B1"/>
   <outline>
     <contour>
       <point x="88" y="0" type="line"/>
-      <point x="114.926" y="170" type="line"/>
-      <point x="584.926" y="170" type="line"/>
-      <point x="558" y="0" type="line"/>
+      <point x="97.5029" y="60" type="line"/>
+      <point x="547.503" y="60" type="line"/>
+      <point x="538" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="151.782" y="308" type="line"/>
-      <point x="178.708" y="478" type="line"/>
-      <point x="313.708" y="478" type="line"/>
-      <point x="334.298" y="608" type="line"/>
-      <point x="504.298" y="608" type="line"/>
-      <point x="483.708" y="478" type="line"/>
-      <point x="618.708" y="478" type="line"/>
-      <point x="591.782" y="308" type="line"/>
-      <point x="456.782" y="308" type="line"/>
-      <point x="436.192" y="178" type="line"/>
-      <point x="266.192" y="178" type="line"/>
-      <point x="286.782" y="308" type="line"/>
+      <point x="167.416" y="312" type="line"/>
+      <point x="177.077" y="373" type="line"/>
+      <point x="342.077" y="373" type="line"/>
+      <point x="369.637" y="547" type="line"/>
+      <point x="429.637" y="547" type="line"/>
+      <point x="402.077" y="373" type="line"/>
+      <point x="567.077" y="373" type="line"/>
+      <point x="557.416" y="312" type="line"/>
+      <point x="392.416" y="312" type="line"/>
+      <point x="365.016" y="139" type="line"/>
+      <point x="305.016" y="139" type="line"/>
+      <point x="332.416" y="312" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,13 +34,28 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>308</integer>
+            <integer>312</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>61</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>305</integer>
+            <key>width</key>
+            <integer>60</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>370</integer>
+            <key>width</key>
+            <integer>60</integer>
           </dict>
         </array>
       </dict>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ygrave" format="2">
-  <advance width="641"/>
+  <advance width="531"/>
   <unicode hex="1EF2"/>
   <outline>
     <contour>
-      <point x="346.67" y="724" type="line"/>
-      <point x="243.953" y="871" type="line"/>
-      <point x="439.953" y="871" type="line"/>
-      <point x="522.67" y="724" type="line"/>
+      <point x="349.838" y="744" type="line"/>
+      <point x="244.953" y="871" type="line"/>
+      <point x="333.953" y="871" type="line"/>
+      <point x="425.838" y="744" type="line"/>
     </contour>
     <contour>
-      <point x="119.869" y="700" type="line"/>
-      <point x="318.869" y="700" type="line"/>
-      <point x="400.287" y="503.759" type="line"/>
-      <point x="543.869" y="700" type="line"/>
-      <point x="742.869" y="700" type="line"/>
-      <point x="454.317" y="308.268" type="line"/>
-      <point x="405.492" y="0" type="line"/>
-      <point x="235.5" y="0" type="line"/>
-      <point x="284.327" y="308.281" type="line"/>
+      <point x="123.869" y="700" type="line"/>
+      <point x="194.869" y="700" type="line"/>
+      <point x="327.77" y="390" type="line"/>
+      <point x="558.869" y="700" type="line"/>
+      <point x="629.869" y="700" type="line"/>
+      <point x="346.842" y="321" type="line"/>
+      <point x="296" y="0" type="line"/>
+      <point x="236" y="0" type="line"/>
+      <point x="286.842" y="321" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,12 +39,6 @@
             <key>width</key>
             <integer>20</integer>
           </dict>
-          <dict>
-            <key>position</key>
-            <integer>724</integer>
-            <key>width</key>
-            <integer>147</integer>
-          </dict>
         </array>
         <key>vhints</key>
         <array>
@@ -52,7 +46,7 @@
             <key>position</key>
             <integer>236</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
         </array>
       </dict>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni021A" format="2">
-  <advance width="621"/>
+  <advance width="545"/>
   <unicode hex="021A"/>
   <outline>
     <contour>
-      <point x="157.323" y="-200" type="line"/>
-      <point x="222.665" y="-40" type="line"/>
-      <point x="390.665" y="-40" type="line"/>
-      <point x="287.323" y="-200" type="line"/>
+      <point x="170.323" y="-200" type="line"/>
+      <point x="231.863" y="-64" type="line"/>
+      <point x="302.863" y="-64" type="line"/>
+      <point x="226.323" y="-200" type="line"/>
     </contour>
     <contour>
-      <point x="130.869" y="700" type="line"/>
-      <point x="711.869" y="700" type="line"/>
-      <point x="684.943" y="530" type="line"/>
-      <point x="479.443" y="530" type="line"/>
-      <point x="395.5" y="0" type="line"/>
-      <point x="225.5" y="0" type="line"/>
-      <point x="309.443" y="530" type="line"/>
-      <point x="103.943" y="530" type="line"/>
+      <point x="123.869" y="700" type="line"/>
+      <point x="643.869" y="700" type="line"/>
+      <point x="634.366" y="640" type="line"/>
+      <point x="404.366" y="640" type="line"/>
+      <point x="303" y="0" type="line"/>
+      <point x="243" y="0" type="line"/>
+      <point x="344.366" y="640" type="line"/>
+      <point x="114.366" y="640" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -40,18 +40,18 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>530</integer>
+            <integer>640</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>226</integer>
+            <integer>243</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
         </array>
       </dict>

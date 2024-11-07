@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Xi" format="2">
-  <advance width="602"/>
+  <advance width="648"/>
   <unicode hex="039E"/>
   <outline>
     <contour>
-      <point x="163.869" y="700" type="line"/>
-      <point x="658.869" y="700" type="line"/>
-      <point x="631.943" y="530" type="line"/>
-      <point x="136.943" y="530" type="line"/>
+      <point x="203.869" y="700" type="line"/>
+      <point x="666.869" y="700" type="line"/>
+      <point x="657.366" y="640" type="line"/>
+      <point x="194.366" y="640" type="line"/>
     </contour>
     <contour>
-      <point x="191.897" y="435" type="line"/>
-      <point x="546.897" y="435" type="line"/>
-      <point x="520.13" y="266" type="line"/>
-      <point x="165.13" y="266" type="line"/>
+      <point x="218.611" y="389" type="line"/>
+      <point x="553.611" y="389" type="line"/>
+      <point x="544.108" y="329" type="line"/>
+      <point x="209.108" y="329" type="line"/>
     </contour>
     <contour>
-      <point x="79.9258" y="170" type="line"/>
-      <point x="575.926" y="170" type="line"/>
-      <point x="549" y="0" type="line"/>
-      <point x="53" y="0" type="line"/>
+      <point x="102.503" y="60" type="line"/>
+      <point x="565.503" y="60" type="line"/>
+      <point x="556" y="0" type="line"/>
+      <point x="93" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,19 +32,19 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>266</integer>
+            <integer>329</integer>
             <key>width</key>
-            <integer>169</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>530</integer>
+            <integer>640</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
         </array>
       </dict>

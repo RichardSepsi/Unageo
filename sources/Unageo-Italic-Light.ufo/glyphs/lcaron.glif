@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcaron" format="2">
-  <advance width="266"/>
+  <advance width="215"/>
   <unicode hex="013E"/>
   <outline>
     <contour>
-      <point x="327.111" y="550" type="line"/>
-      <point x="372.869" y="700" type="line"/>
-      <point x="522.869" y="700" type="line"/>
-      <point x="457.111" y="550" type="line"/>
+      <point x="236.469" y="527" type="line"/>
+      <point x="316.711" y="699" type="line"/>
+      <point x="387.711" y="699" type="line"/>
+      <point x="292.469" y="527" type="line"/>
     </contour>
     <contour>
-      <point x="158.869" y="700" type="line"/>
-      <point x="328.869" y="700" type="line"/>
-      <point x="218" y="0" type="line"/>
-      <point x="48" y="0" type="line"/>
+      <point x="188.869" y="700" type="line"/>
+      <point x="248.869" y="700" type="line"/>
+      <point x="138" y="0" type="line"/>
+      <point x="78" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,24 +30,24 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>550</integer>
+            <integer>679</integer>
             <key>width</key>
-            <integer>150</integer>
+            <integer>20</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>48</integer>
+            <integer>78</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>159</integer>
+            <integer>189</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
         </array>
       </dict>

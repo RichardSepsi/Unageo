@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04A2" format="2">
-  <advance width="734"/>
+  <advance width="732"/>
   <unicode hex="04A2"/>
   <outline>
     <contour>
-      <point x="63" y="0" type="line"/>
-      <point x="174.027" y="701" type="line"/>
-      <point x="344.027" y="701" type="line"/>
-      <point x="302.848" y="441" type="line"/>
-      <point x="570.848" y="441" type="line"/>
-      <point x="611.869" y="700" type="line"/>
-      <point x="781.869" y="700" type="line"/>
-      <point x="671" y="0" type="line"/>
-      <point x="501" y="0" type="line"/>
-      <point x="543.922" y="271" type="line"/>
-      <point x="275.922" y="271" type="line"/>
-      <point x="233" y="0" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="213.869" y="700" type="line"/>
+      <point x="273.869" y="700" type="line"/>
+      <point x="224.929" y="391" type="line"/>
+      <point x="631.929" y="391" type="line"/>
+      <point x="680.869" y="700" type="line"/>
+      <point x="740.869" y="700" type="line"/>
+      <point x="630" y="0" type="line"/>
+      <point x="570" y="0" type="line"/>
+      <point x="622.425" y="331" type="line"/>
+      <point x="215.425" y="331" type="line"/>
+      <point x="163" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="553.658" y="-160" type="line"/>
-      <point x="607.509" y="180" type="line"/>
-      <point x="787.509" y="180" type="line"/>
-      <point x="733.658" y="-160" type="line"/>
+      <point x="575.658" y="-160" type="line"/>
+      <point x="608.127" y="45" type="line"/>
+      <point x="668.127" y="45" type="line"/>
+      <point x="635.658" y="-160" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -34,17 +34,17 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>21</integer>
+            <integer>45</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>271</integer>
+            <integer>331</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>681</integer>
+            <integer>680</integer>
             <key>width</key>
             <integer>20</integer>
           </dict>
@@ -53,27 +53,27 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>63</integer>
+            <integer>103</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>174</integer>
+            <integer>214</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>554</integer>
+            <integer>576</integer>
             <key>width</key>
-            <integer>180</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>612</integer>
+            <integer>681</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
         </array>
       </dict>

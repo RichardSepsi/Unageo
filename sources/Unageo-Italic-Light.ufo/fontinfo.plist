@@ -29,7 +29,7 @@
     <key>note</key>
     <string>2023-12-24: Created with FontForge (http://fontforge.org)</string>
     <key>openTypeHeadCreated</key>
-    <string>2023/12/24 20:25:07</string>
+    <string>2023/12/24 20:25:29</string>
     <key>openTypeHheaAscender</key>
     <integer>950</integer>
     <key>openTypeHheaDescender</key>
@@ -57,7 +57,7 @@
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>openTypeOS2WeightClass</key>
-    <integer>900</integer>
+    <integer>300</integer>
     <key>openTypeOS2VendorID</key>
     <string>PfEd</string>
     <key>openTypeOS2FamilyClass</key>
@@ -103,11 +103,11 @@
     </array>
     <key>postscriptStemSnapH</key>
     <array>
-      <integer>170</integer>
+      <integer>60</integer>
     </array>
     <key>postscriptStemSnapV</key>
     <array>
-      <integer>170</integer>
+      <integer>60</integer>
     </array>
     <key>postscriptBlueShift</key>
     <integer>7</integer>

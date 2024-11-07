@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04A5" format="2">
-  <advance width="598"/>
+  <advance width="553"/>
   <unicode hex="04A5"/>
   <outline>
     <contour>
-      <point x="48" y="0" type="line"/>
-      <point x="127.192" y="500" type="line"/>
-      <point x="297.192" y="500" type="line"/>
-      <point x="271.059" y="335" type="line"/>
-      <point x="379.059" y="335" type="line"/>
-      <point x="405.192" y="500" type="line"/>
-      <point x="575.192" y="500" type="line"/>
-      <point x="496" y="0" type="line"/>
-      <point x="326" y="0" type="line"/>
-      <point x="352.134" y="165" type="line"/>
-      <point x="244.134" y="165" type="line"/>
-      <point x="218" y="0" type="line"/>
+      <point x="78" y="0" type="line"/>
+      <point x="157.192" y="500" type="line"/>
+      <point x="217.192" y="500" type="line"/>
+      <point x="182.348" y="280" type="line"/>
+      <point x="440.348" y="280" type="line"/>
+      <point x="475.192" y="500" type="line"/>
+      <point x="535.192" y="500" type="line"/>
+      <point x="456" y="0" type="line"/>
+      <point x="396" y="0" type="line"/>
+      <point x="430.845" y="220" type="line"/>
+      <point x="172.845" y="220" type="line"/>
+      <point x="138" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="548.267" y="330" type="line"/>
-      <point x="575.192" y="500" type="line"/>
-      <point x="659.192" y="500" type="line"/>
-      <point x="632.267" y="330" type="line"/>
+      <point x="525.689" y="440" type="line"/>
+      <point x="535.192" y="500" type="line"/>
+      <point x="623.192" y="500" type="line"/>
+      <point x="613.689" y="440" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -38,9 +38,42 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>480</integer>
+            <integer>220</integer>
             <key>width</key>
-            <integer>20</integer>
+            <integer>60</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>440</integer>
+            <key>width</key>
+            <integer>60</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>78</integer>
+            <key>width</key>
+            <integer>60</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>157</integer>
+            <key>width</key>
+            <integer>60</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>396</integer>
+            <key>width</key>
+            <integer>60</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>475</integer>
+            <key>width</key>
+            <integer>60</integer>
           </dict>
         </array>
       </dict>

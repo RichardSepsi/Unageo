@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02BB" format="2">
-  <advance width="320"/>
+  <advance width="195"/>
   <unicode hex="02BB"/>
   <outline>
     <contour>
-      <point x="294.382" y="457" type="curve"/>
-      <point x="114.382" y="457" type="line"/>
-      <point x="130.537" y="559"/>
-      <point x="179.544" y="645.333"/>
-      <point x="261.403" y="716" type="curve"/>
-      <point x="401.403" y="716" type="line"/>
-      <point x="344.461" y="634.286"/>
-      <point x="308.787" y="547.952"/>
+      <point x="190.409" y="514" type="curve"/>
+      <point x="129.409" y="514" type="line"/>
+      <point x="141.605" y="591"/>
+      <point x="170.375" y="659"/>
+      <point x="216.403" y="716" type="curve"/>
+      <point x="277.403" y="716" type="line"/>
+      <point x="230.742" y="655"/>
+      <point x="202.13" y="588"/>
     </contour>
   </outline>
   <lib>
@@ -22,18 +22,18 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>457</integer>
+            <integer>514</integer>
             <key>width</key>
-            <integer>259</integer>
+            <integer>202</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>114</integer>
+            <integer>129</integer>
             <key>width</key>
-            <integer>287</integer>
+            <integer>61</integer>
           </dict>
         </array>
       </dict>

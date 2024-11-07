@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Nacute" format="2">
-  <advance width="719"/>
+  <advance width="739"/>
   <unicode hex="0143"/>
   <outline>
     <contour>
-      <point x="390.675" y="733.5" type="line"/>
-      <point x="519.957" y="880.5" type="line"/>
-      <point x="715.957" y="880.5" type="line"/>
-      <point x="566.675" y="733.5" type="line"/>
+      <point x="448.838" y="744" type="line"/>
+      <point x="577.795" y="870" type="line"/>
+      <point x="666.795" y="870" type="line"/>
+      <point x="524.838" y="744" type="line"/>
     </contour>
     <contour>
-      <point x="173.869" y="700" type="line"/>
-      <point x="343.869" y="700" type="line"/>
-      <point x="535.258" y="311" type="line"/>
-      <point x="596.869" y="700" type="line"/>
-      <point x="766.869" y="700" type="line"/>
-      <point x="656" y="0" type="line"/>
-      <point x="486" y="0" type="line"/>
-      <point x="294.611" y="389" type="line"/>
-      <point x="233" y="0" type="line"/>
-      <point x="63" y="0" type="line"/>
+      <point x="213.869" y="700" type="line"/>
+      <point x="273.869" y="700" type="line"/>
+      <point x="593.789" y="106" type="line"/>
+      <point x="687.869" y="700" type="line"/>
+      <point x="747.869" y="700" type="line"/>
+      <point x="637" y="0" type="line"/>
+      <point x="577" y="0" type="line"/>
+      <point x="257.08" y="594" type="line"/>
+      <point x="163" y="0" type="line"/>
+      <point x="103" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -45,15 +45,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>63</integer>
+            <integer>103</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>597</integer>
+            <integer>688</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
         </array>
       </dict>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni02BC" format="2">
-  <advance width="320"/>
+  <advance width="195"/>
   <unicode hex="02BC"/>
   <outline>
     <contour>
       <point x="176.403" y="716" type="line"/>
-      <point x="370.403" y="716" type="line"/>
-      <point x="302.689" y="440" type="line"/>
-      <point x="156.689" y="440" type="line"/>
+      <point x="246.403" y="716" type="line"/>
+      <point x="203.776" y="510" type="line"/>
+      <point x="153.776" y="510" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -18,18 +18,18 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>440</integer>
+            <integer>510</integer>
             <key>width</key>
-            <integer>276</integer>
+            <integer>206</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>157</integer>
+            <integer>154</integer>
             <key>width</key>
-            <integer>214</integer>
+            <integer>93</integer>
           </dict>
         </array>
       </dict>

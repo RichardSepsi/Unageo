@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04AF" format="2">
-  <advance width="666"/>
+  <advance width="543"/>
   <unicode hex="04AF"/>
   <outline>
     <contour>
-      <point x="111.192" y="500" type="line"/>
-      <point x="310.192" y="500" type="line"/>
-      <point x="381.866" y="242.239" type="line"/>
-      <point x="535.192" y="500" type="line"/>
-      <point x="734.192" y="500" type="line"/>
-      <point x="428.534" y="0.267578" type="line"/>
-      <point x="396.815" y="-200" type="line"/>
-      <point x="226.823" y="-200" type="line"/>
-      <point x="258.545" y="0.285156" type="line"/>
+      <point x="97.1924" y="500" type="line"/>
+      <point x="168.192" y="500" type="line"/>
+      <point x="284.621" y="86" type="line"/>
+      <point x="532.192" y="500" type="line"/>
+      <point x="603.192" y="500" type="line"/>
+      <point x="301" y="0" type="line"/>
+      <point x="269.323" y="-200" type="line"/>
+      <point x="209.323" y="-200" type="line"/>
+      <point x="241" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -38,15 +38,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>111</integer>
+            <integer>97</integer>
             <key>width</key>
-            <integer>199</integer>
+            <integer>71</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>227</integer>
+            <integer>209</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
         </array>
       </dict>

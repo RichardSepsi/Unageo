@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni043C" format="2">
-  <advance width="784"/>
+  <advance width="653"/>
   <unicode hex="043C"/>
   <outline>
     <contour>
-      <point x="308.203" y="60" type="line"/>
-      <point x="207.393" y="500" type="line"/>
-      <point x="382.192" y="500" type="line"/>
-      <point x="494.503" y="60" type="line"/>
+      <point x="304.503" y="60" type="line"/>
+      <point x="214.192" y="500" type="line"/>
+      <point x="275.192" y="500" type="line"/>
+      <point x="368.503" y="60" type="line"/>
     </contour>
     <contour>
-      <point x="12.7002" y="0" type="line"/>
-      <point x="207.393" y="500" type="line"/>
-      <point x="382.192" y="500" type="line"/>
-      <point x="187" y="0" type="line"/>
+      <point x="13" y="0" type="line"/>
+      <point x="214.192" y="500" type="line"/>
+      <point x="275.192" y="500" type="line"/>
+      <point x="75" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="596.7" y="0" type="line"/>
-      <point x="559.393" y="500" type="line"/>
-      <point x="734.192" y="500" type="line"/>
-      <point x="771" y="0" type="line"/>
+      <point x="579" y="0" type="line"/>
+      <point x="537.192" y="500" type="line"/>
+      <point x="598.192" y="500" type="line"/>
+      <point x="641" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="308.203" y="60" type="line"/>
-      <point x="559.393" y="500" type="line"/>
-      <point x="734.192" y="500" type="line"/>
-      <point x="494.503" y="60" type="line"/>
+      <point x="304.503" y="60" type="line"/>
+      <point x="537.192" y="500" type="line"/>
+      <point x="598.192" y="500" type="line"/>
+      <point x="368.503" y="60" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -51,9 +51,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>597</integer>
+            <integer>579</integer>
             <key>width</key>
-            <integer>174</integer>
+            <integer>62</integer>
           </dict>
         </array>
       </dict>

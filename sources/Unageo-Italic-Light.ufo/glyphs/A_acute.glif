@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aacute" format="2">
-  <advance width="695"/>
+  <advance width="607"/>
   <unicode hex="00C1"/>
   <outline>
     <contour>
-      <point x="319.768" y="265" type="line"/>
-      <point x="449.164" y="265" type="line"/>
-      <point x="411.411" y="448.356" type="line"/>
+      <point x="215.972" y="265" type="line"/>
+      <point x="475.972" y="265" type="line"/>
+      <point x="402.04" y="619" type="line"/>
     </contour>
     <contour>
-      <point x="234.8" y="95" type="line"/>
-      <point x="188.316" y="2" type="line"/>
-      <point x="8.31641" y="2" type="line"/>
-      <point x="359.186" y="702" type="line"/>
-      <point x="538.186" y="702" type="line"/>
-      <point x="683.316" y="2" type="line"/>
-      <point x="503.316" y="2" type="line"/>
-      <point x="484.168" y="95" type="line"/>
+      <point x="184.469" y="205" type="line"/>
+      <point x="78" y="0" type="line"/>
+      <point x="13" y="0" type="line"/>
+      <point x="384.869" y="700" type="line"/>
+      <point x="444.869" y="700" type="line"/>
+      <point x="595" y="0" type="line"/>
+      <point x="530" y="0" type="line"/>
+      <point x="488.469" y="205" type="line"/>
     </contour>
     <contour>
-      <point x="367.759" y="743.5" type="line"/>
-      <point x="497.041" y="890.5" type="line"/>
-      <point x="693.041" y="890.5" type="line"/>
-      <point x="543.759" y="743.5" type="line"/>
+      <point x="383.838" y="744" type="line"/>
+      <point x="512.795" y="870" type="line"/>
+      <point x="601.795" y="870" type="line"/>
+      <point x="459.838" y="744" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,15 +33,30 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>95</integer>
+            <integer>0</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>21</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>682</integer>
+            <integer>205</integer>
+            <key>width</key>
+            <integer>60</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>680</integer>
             <key>width</key>
             <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>530</integer>
+            <key>width</key>
+            <integer>65</integer>
           </dict>
         </array>
       </dict>

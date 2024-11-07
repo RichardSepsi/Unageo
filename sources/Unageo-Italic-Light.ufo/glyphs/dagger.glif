@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dagger" format="2">
-  <advance width="500"/>
+  <advance width="483"/>
   <unicode hex="2020"/>
   <outline>
     <contour>
-      <point x="71.1182" y="348" type="line"/>
-      <point x="98.043" y="518" type="line"/>
-      <point x="247.043" y="518" type="line"/>
-      <point x="275.869" y="700" type="line"/>
-      <point x="445.869" y="700" type="line"/>
-      <point x="417.043" y="518" type="line"/>
-      <point x="566.043" y="518" type="line"/>
-      <point x="539.118" y="348" type="line"/>
-      <point x="390.118" y="348" type="line"/>
-      <point x="335" y="0" type="line"/>
-      <point x="165" y="0" type="line"/>
-      <point x="220.118" y="348" type="line"/>
+      <point x="98.0059" y="442" type="line"/>
+      <point x="107.509" y="502" type="line"/>
+      <point x="291.509" y="502" type="line"/>
+      <point x="322.869" y="700" type="line"/>
+      <point x="382.869" y="700" type="line"/>
+      <point x="351.509" y="502" type="line"/>
+      <point x="535.509" y="502" type="line"/>
+      <point x="526.006" y="442" type="line"/>
+      <point x="342.006" y="442" type="line"/>
+      <point x="272" y="0" type="line"/>
+      <point x="212" y="0" type="line"/>
+      <point x="282.006" y="442" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -32,9 +32,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>348</integer>
+            <integer>442</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -47,15 +47,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>165</integer>
+            <integer>212</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>276</integer>
+            <integer>323</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>60</integer>
           </dict>
         </array>
       </dict>

@@ -50,6 +50,10 @@
     <string>Unageo</string>
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Variable</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
     <key>openTypeOS2WidthClass</key>
     <integer>5</integer>
     <key>openTypeOS2WeightClass</key>
@@ -79,10 +83,6 @@
     <string>Unageo Variable</string>
     <key>postscriptWeightName</key>
     <string>Variable</string>
-    <key>openTypeOS2Selection</key>
-    <array>
-      <integer>7</integer>
-    </array>
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
     <key>postscriptUnderlinePosition</key>
