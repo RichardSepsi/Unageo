@@ -13,7 +13,7 @@ Greek uses the same rounded shapes and adds smooth lines to give it a more uniqu
 More on: [sepsi.sk/unageo](https://www.sepsi.sk/unageo)
 
 ### How was it made?
-Unageo is my first attempt at making a font, and since I had almost no prior experience with font creation and limited software avalability, I worked on Unageo with an unusual workflow. I designed the characters in inkscape and imported the outlines into fontforge. Since I'm familiar with inkscape, designing the glyphs  wasn't too hard and inkscape has great tools for working with perfect geometry. It wasn't as great with fontforge, but I got accustomed to it quite fine and I was able to finish my font. After it was done, I used fontmake to generate my variable fonts and then fonttools mutator to generate the static fonts. Static fonts can also be exported directly from fontforge as the sources are interpolable.
+Unageo is my first attempt at making a font, since I had almost no prior experience with font creation and I didn't immediately want to pay for expensive industry standart software, I decided to work on Unageo with an unusual workflow. I designed the characters in inkscape and imported the outlines into fontforge. I made this choice primairly because I'm already familiar with inkscape and it's tools were well suited for what I wanted to do. I worked with FontForge for the first time, but I found it to be somewhat easy to get accustomed to and I was able to finish my typeface without any major issues. After it was done, I used fontmake to generate my variable fonts and then fonttools mutator to generate the static fonts. Those can also be exported directly from fontforge as the sources are interpolable.
 
 ### Opentype features
 
